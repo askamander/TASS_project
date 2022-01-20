@@ -1,5 +1,6 @@
 import unittest
-import embeddings
+from TASS_project.embeddings import embeddings
+
 
 # all combinations for years of live of 2 people
 # b_a d_a b_b d_b

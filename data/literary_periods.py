@@ -1,0 +1,21 @@
+literary_periods = {
+    'PREHOMERIC PERIOD': (-9999, -1200),
+    'HOMERIC PERIOD': (-1200, -800),
+    'CLASSICAL GREEK PERIOD': (-800, -200),
+    'CLASSICAL ROMAN PERIOD': (-200, 455),
+    'ANGLO-SAXON PERIOD': (455, 1066),
+    'THE MIDDLE ENGLISH PERIOD': (1066, 1200),
+    'LATE MEDIEVAL PERIOD': (1200, 1485),
+    'Early Tudor Period': (1485, 1558),
+    'Elizabethan Period': (1558, 1603),
+    'Jacobean Period': (1603, 1625),
+    'Caroline Period': (1625, 1649),
+    'Commonwealth Period': (1649, 1660),
+    'Restoration Period': (1660, 1700),
+    'The Augustan Period': (1700, 1750),
+    'The Age of Johnson Period': (1750, 1790),
+    'The Romantic Period': (1790, 1830),
+    'The Victorian Period': (1830, 1914),
+    'The Modern Period': (1914, 1945),
+    'The Postmodern Period': (1945, 2022)
+}

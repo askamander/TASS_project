@@ -1,3 +1,4 @@
+import numpy as np
 import spacy
 
 nlp = spacy.load("en_core_web_lg")
@@ -31,8 +32,11 @@ def word2vec_embedding(str_a, str_b):
     return doc1.similarity(doc2)
 
 
-def word2vec_str_embedding(str):
-    return nlp(str).vector_norm
+def word2vec_str_embedding(string):
+    if isinstance(string, str) is False:
+        print(string)
+        return np.nan
+    return nlp(string).vector_norm
 
 
 def book_similarity(book_data, other_book_data):
