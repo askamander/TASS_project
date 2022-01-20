@@ -14,10 +14,11 @@ export class ScrapersStack extends cdk.Stack {
 
     const tassResultsTable = new dynamodb.Table(this, 'TASSResults', {
       partitionKey: { name: 'book_id', type: dynamodb.AttributeType.NUMBER },
+      readCapacity: 1,
     });
 
     const readScaling = tassResultsTable.autoScaleWriteCapacity({
-      minCapacity: 1,
+      minCapacity: 10,
       maxCapacity: 50,
     });
 
@@ -123,10 +124,11 @@ export class ScrapersStack extends cdk.Stack {
         ),
         handler: 'index.handler',
         runtime: lambda.Runtime.PYTHON_3_8,
-        timeout: cdk.Duration.minutes(1),
+        timeout: cdk.Duration.minutes(15),
         environment: {
           LOG_LEVEL: '10',
           SCRAPER_LAMBDA: wikidataScraperLambda.functionName,
+          DATASET_PATH: 'unique_authors_wiki_1.csv',
         },
       }
     );

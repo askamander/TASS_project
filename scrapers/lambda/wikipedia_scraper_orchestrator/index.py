@@ -11,6 +11,7 @@ import pandas as pd
 DIR = path.dirname(path.realpath(__file__))
 LOG_LEVEL = int(environ['LOG_LEVEL'])
 SCRAPER_LAMBDA = environ['SCRAPER_LAMBDA']
+DATASET_PATH = environ['DATASET_PATH']
 
 logging.basicConfig()
 logger = logging.getLogger('extract_wikipedia_link')
@@ -20,7 +21,7 @@ client = boto3.client('lambda')
 
 
 def handler(event: Dict[str, Any], _):
-    df = pd.read_csv('test.csv')
+    df = pd.read_csv(DATASET_PATH)
     wikidata_ids: List[Optional[str]] = []
     for _, row in df.iterrows():
         logger.info(
