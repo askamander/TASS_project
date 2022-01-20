@@ -62,9 +62,7 @@ def get_property(id: str,
           r['statementValueLabel']['value'],
       ) for r in results["results"]["bindings"]
   ]
-  if len(parsed_results) == 1:
-    return parsed_results[0][1]
-  elif len(parsed_results) > 1:
+  if len(parsed_results) >= 1:
     return parsed_results
   logger.warning(f'No results found for property {property.name} for ID {id}.')
   return None
@@ -79,24 +77,43 @@ def handler(event: Dict[str, Any], _):
     logger.info(f'Quering wikidata for ID {wikidata_id}.')
 
     date_of_birth = get_property(id=wikidata_id, property=Properties.DateOfBirth)
+    date_of_birth = date_of_birth[0][1] if date_of_birth else date_of_birth
     logger.debug(f'{date_of_birth=}')
+
     date_of_death = get_property(id=wikidata_id, property=Properties.DateOfDeath)
+    date_of_death = date_of_death[0][1] if date_of_death else date_of_death
     logger.debug(f'{date_of_death=}')
+
     country_of_citizenship = get_property(id=wikidata_id, property=Properties.CountryOfCitizenship)
+    country_of_citizenship = country_of_citizenship[0][1] if country_of_citizenship else country_of_citizenship
     logger.debug(f'{country_of_citizenship=}')
+
     occupation = get_property(id=wikidata_id, property=Properties.Occupation)
+    occupation = occupation[0][1] if occupation else occupation
     logger.debug(f'{occupation=}')
+
     languages_spoken_written_or_signed = get_property(id=wikidata_id,
                                                       property=Properties.LanguagesSpokenWrittenOrSigned)
+    languages_spoken_written_or_signed = languages_spoken_written_or_signed[0][1] if (
+        languages_spoken_written_or_signed) else languages_spoken_written_or_signed
     logger.debug(f'{languages_spoken_written_or_signed=}')
+
     genre = get_property(id=wikidata_id, property=Properties.Genre)
+    genre = genre[0][1] if genre else genre
     logger.debug(f'{genre=}')
+
     field_of_work = get_property(id=wikidata_id, property=Properties.FieldOfWork)
+    field_of_work = field_of_work[0][1] if field_of_work else field_of_work
     logger.debug(f'{field_of_work=}')
+
     member_of = get_property(id=wikidata_id, property=Properties.MemberOf)
+    member_of = member_of[0][1] if member_of else member_of
     logger.debug(f'{member_of=}')
+
     educated_at = get_property(id=wikidata_id, property=Properties.EducatedAt)
+    educated_at = educated_at[0][1] if educated_at else educated_at
     logger.debug(f'{educated_at=}')
+
     influenced_by = get_property(id=wikidata_id, property=Properties.InfluencedBy, limit=None)
     logger.debug(f'{influenced_by=}')
 
