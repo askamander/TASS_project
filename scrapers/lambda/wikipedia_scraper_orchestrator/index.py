@@ -1,6 +1,7 @@
 import json
 import logging
 from os import environ, path
+from time import sleep
 from typing import Any, Dict, List, Optional
 
 import boto3
@@ -35,6 +36,7 @@ def handler(event: Dict[str, Any], _):
         try:
             response: Dict[str, Any] = client.invoke(
                 FunctionName=SCRAPER_LAMBDA,
+                InvocationType='Event',
                 Payload=json.dumps({
                     'wikipedia_link': wikipedia_link,
                     'book_id': row.get("BookID", None),

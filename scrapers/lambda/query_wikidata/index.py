@@ -2,15 +2,14 @@ import json
 import logging
 import sys
 from enum import Enum
-from os import path, environ
+from os import environ
 from typing import Any, Dict, List, Optional, Tuple, Union
 
 import boto3
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-DIR = path.dirname(path.realpath(__file__))
 LOG_LEVEL = int(environ['LOG_LEVEL'])
-WIKIDATA_API_URL = "https://query.wikidata.org/sparql"
+WIKIDATA_API_URL = environ['WIKIDATA_API_URL']
 SAVE_DATA_LAMBDA = environ['SAVE_DATA_LAMBDA']
 
 logging.basicConfig()
@@ -116,6 +115,7 @@ def handler(event: Dict[str, Any], _):
 
     client.invoke(
         FunctionName=SAVE_DATA_LAMBDA,
+        InvocationType='Event',
         Payload=json.dumps({
             'wikidata_data': result,
             'wikidata_id': wikidata_id,

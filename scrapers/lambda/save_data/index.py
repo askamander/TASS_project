@@ -1,29 +1,49 @@
-import json
 import logging
 from typing import Any, Dict
-import requests
-from os import path, environ
+from os import environ
 
-from bs4 import BeautifulSoup
+import boto3
 
-DIR = path.dirname(path.realpath(__file__))
 LOG_LEVEL = int(environ['LOG_LEVEL'])
+TABLE_NAME = environ['TABLE_NAME']
 
 logging.basicConfig()
 logger = logging.getLogger('extract_wikipedia_link')
 logger.setLevel(LOG_LEVEL)
 
+dynamodb = boto3.client('dynamodb')
+
 
 def handler(event: Dict[str, Any], _):
   try:
-    url = event['wikipedia_link']
-    logger.info(f'Scraping wikidata ID for URL {url}.')
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, "html.parser")
-    wikidata_item = soup.find(id='t-wikibase').find('a', href=True)
-    wikidata_id = str(wikidata_item['href']).split('/')[-1]
-    logger.info(f'Found ID: {wikidata_id}.')
-    return {'statusCode': 200, 'body': json.dumps({'wikidata_id': wikidata_id})}
+    wikidata_id = event['wikidata_id']
+    wikipedia_link = event['wikipedia_link']
+    author = event['author']
+    book_id = event['book_id']
+    wikidata_data = {k: {'S': str(v)} for k, v in event['wikidata_data'].items()}
+
+    logger.info(f'Saving data for book ID {book_id}.')
+
+    dynamodb.put_item(
+        TableName=TABLE_NAME,
+        Item={
+            'book_id': {
+                'N': str(book_id)
+            },
+            'author': {
+                'S': author
+            },
+            'wikipedia_link': {
+                'S': wikipedia_link
+            },
+            'wikidata_id': {
+                'S': wikidata_id
+            },
+            **wikidata_data
+        },
+    )
+
+    return {'statusCode': 200}
   except KeyError as ex:
     logger.error(ex)
     return {'statusCode': 400, 'error': str(ex)}

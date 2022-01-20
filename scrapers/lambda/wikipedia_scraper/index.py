@@ -2,12 +2,11 @@ import json
 import logging
 import requests
 from typing import Any, Dict
-from os import path, environ
+from os import environ
 
 import boto3
 from bs4 import BeautifulSoup
 
-DIR = path.dirname(path.realpath(__file__))
 LOG_LEVEL = int(environ['LOG_LEVEL'])
 QUERY_WIKIDATA_LAMBDA = environ['QUERY_WIKIDATA_LAMBDA']
 
@@ -32,6 +31,7 @@ def handler(event: Dict[str, Any], _):
 
     client.invoke(
         FunctionName=QUERY_WIKIDATA_LAMBDA,
+        InvocationType='Event',
         Payload=json.dumps({
             'wikidata_id': wikidata_id,
             'wikipedia_link': url,
