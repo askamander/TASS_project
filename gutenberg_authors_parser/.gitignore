@@ -1,0 +1,5 @@
+venv
+cache
+.vscode
+.mypy_cache
+data/**/*.tar

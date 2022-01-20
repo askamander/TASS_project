@@ -1,0 +1,2 @@
+boto3~=1.20.37
+sparqlwrapper~=1.8.5

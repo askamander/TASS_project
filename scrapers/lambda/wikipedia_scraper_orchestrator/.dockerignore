@@ -1,0 +1,6 @@
+venv
+.dockerignore
+.mypy_cache
+.vscode
+requirements-dev.txt
+.gitignore
