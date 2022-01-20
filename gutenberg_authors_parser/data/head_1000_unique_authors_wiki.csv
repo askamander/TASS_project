@@ -1,0 +1,1001 @@
+Author,BookID,WikipediaLink
+"Jefferson, Thomas",1,https://en.wikipedia.org/wiki/Thomas_Jefferson
+United States,2,https://en.wikipedia.org/wiki/United_States
+"Kennedy, John F. (John Fitzgerald)",3,https://en.wikipedia.org/wiki/John_F._Kennedy
+"Lincoln, Abraham",4,https://en.wikipedia.org/wiki/Abraham_Lincoln
+"Henry, Patrick",6,https://en.wikipedia.org/wiki/Patrick_Henry
+"Carroll, Lewis",11,https://en.wikipedia.org/wiki/Lewis_Carroll
+United States. Central Intelligence Agency,14,https://en.wikipedia.org/wiki/Central_Intelligence_Agency
+"Melville, Herman",15,https://en.wikipedia.org/wiki/Herman_Melville
+"Barrie, J. M. (James Matthew)",16,https://en.wikipedia.org/wiki/J._M._Barrie
+Church of Jesus Christ of Latter-day Saints,17,https://en.wikipedia.org/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints
+"Madison, James",18,https://en.wikipedia.org/wiki/James_Madison
+"Longfellow, Henry Wadsworth",19,https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+"Milton, John",20,https://en.wikipedia.org/wiki/John_Milton
+Aesop,21,https://en.wikipedia.org/wiki/Aesop
+"Roget, Peter Mark",22,https://en.wikipedia.org/wiki/Peter_Roget
+"Douglass, Frederick",23,http://en.wikipedia.org/wiki/Frederick_Douglass
+"Cather, Willa",24,https://en.wikipedia.org/wiki/Willa_Cather
+"Hardy, Thomas",27,https://en.wikipedia.org/wiki/Thomas_Hardy
+United States. Bureau of the Census,29,http://en.wikipedia.org/wiki/United_States_Census_Bureau
+Sophocles,31,https://hu.wikipedia.org/wiki/Szophokl%C3%A9sz
+"Gilman, Charlotte Perkins",32,https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+"Hawthorne, Nathaniel",33,https://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+"Kehoe, Brendan P.",34,https://en.wikipedia.org/wiki/Brendan_Kehoe
+"Wells, H. G. (Herbert George)",35,https://en.wikipedia.org/wiki/H._G._Wells
+"Krol, Ed",39,https://en.wikipedia.org/wiki/Ed_Krol
+"Irving, Washington",41,https://en.wikipedia.org/wiki/Washington_Irving
+"Stevenson, Robert Louis",42,https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+"Montgomery, L. M. (Lucy Maud)",45,http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+"Dickens, Charles",46,https://en.wikipedia.org/wiki/Charles_Dickens
+"Polly, Jean Armour",49,https://en.wikipedia.org/wiki/Jean_Armour_Polly
+Library of Congress,53,https://en.wikipedia.org/wiki/Library_of_Congress
+"Baum, L. Frank (Lyman Frank)",54,https://en.wikipedia.org/wiki/L._Frank_Baum
+"Descartes, René",59,https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes
+"Orczy, Emmuska Orczy, Baroness",60,https://en.wikipedia.org/wiki/Baroness_Orczy
+"Marx, Karl",61,https://de.wikipedia.org/wiki/Karl_Marx
+"Burroughs, Edgar Rice",62,https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+"Slowinski, David",69,https://en.wikipedia.org/wiki/David_Slowinski
+"Twain, Mark",70,https://en.wikipedia.org/wiki/Mark_Twain
+"Thoreau, Henry David",71,https://en.wikipedia.org/wiki/Henry_David_Thoreau
+"Crane, Stephen",73,https://en.wikipedia.org/wiki/Stephen_Crane
+"Schwartau, Winn",79,https://en.wikipedia.org/wiki/Winn_Schwartau
+"Scott, Walter",82,https://en.wikipedia.org/wiki/Walter_Scott
+"Verne, Jules",83,http://fr.wikipedia.org/wiki/Jules_Verne
+"Shelley, Mary Wollstonecraft",84,https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+"Hart, Michael",88,https://en.wikipedia.org/wiki/Michael_S._Hart
+Canada,89,https://en.wikipedia.org/wiki/Canada
+"Hope, Anthony",95,https://en.wikipedia.org/wiki/Anthony_Hope
+"Abbott, Edwin Abbott",97,https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
+"Shakespeare, William",100,https://en.wikipedia.org/wiki/William_Shakespeare
+"Sterling, Bruce",101,https://en.wikipedia.org/wiki/Bruce_Sterling
+"Roosevelt, Franklin D. (Franklin Delano)",104,https://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+"Austen, Jane",105,https://en.wikipedia.org/wiki/Jane_Austen
+"Doyle, Arthur Conan",108,https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+"Millay, Edna St. Vincent",109,https://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
+"Stratton-Porter, Gene",111,https://en.wikipedia.org/wiki/Gene_Stratton_Porter
+"Burnett, Frances Hodgson",113,https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+"Beethoven, Ludwig van",117,https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+Electronic Frontier Foundation,118,https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation
+Anonymous,124,https://en.wikipedia.org/wiki/Anonymous_work
+"Lang, Andrew",128,http://en.wikipedia.org/wiki/Andrew_Lang
+"Chesterton, G. K. (Gilbert Keith)",130,https://en.wikipedia.org/wiki/G._K._Chesterton
+"Bunyan, John",131,https://en.wikipedia.org/wiki/John_Bunyan
+"Sunzi, active 6th century B.C.",132,https://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+"Frederic, Harold",133,https://en.wikipedia.org/wiki/Harold_Frederic
+"Wollstonecraft, Mary",134,https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+"Hugo, Victor",135,https://en.wikipedia.org/wiki/Victor_Hugo
+"Doumic, René",138,https://fr.wikipedia.org/wiki/Ren%C3%A9_Doumic
+"Sinclair, Upton",140,https://en.wikipedia.org/wiki/Upton_Sinclair
+"Woolf, Virginia",144,http://en.wikipedia.org/wiki/Virginia_Woolf
+"Eliot, George",145,https://en.wikipedia.org/wiki/George_Eliot
+"Paine, Thomas",147,https://en.wikipedia.org/wiki/Thomas_Paine
+"Franklin, Benjamin",148,https://en.wikipedia.org/wiki/Benjamin_Franklin
+Plato,150,https://en.wikipedia.org/wiki/Plato
+"Coleridge, Samuel Taylor",151,https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+"Howells, William Dean",154,https://en.wikipedia.org/wiki/William_Dean_Howells
+"Collins, Wilkie",155,https://en.wikipedia.org/wiki/Wilkie_Collins
+"Webster, Jean",157,https://en.wikipedia.org/wiki/Jean_Webster
+"Chopin, Kate",160,https://en.wikipedia.org/wiki/Kate_Chopin
+"Alcott, Louisa May",163,https://en.wikipedia.org/wiki/Louisa_May_Alcott
+"Norris, Frank",165,https://en.wikipedia.org/wiki/Frank_Norris
+"Wharton, Edith",166,http://en.wikipedia.org/wiki/Edith_Wharton
+"Snelling, Henry Hunt",168,https://en.wikipedia.org/wiki/Henry_Hunt_Snelling
+"Morris, William",169,http://en.wikipedia.org/wiki/William_Morris
+"Rowson, Mrs.",171,https://en.wikipedia.org/wiki/Susanna_Rowson
+"Morley, Christopher",172,https://en.wikipedia.org/wiki/Christopher_Morley
+"Rohmer, Sax",173,https://en.wikipedia.org/wiki/Sax_Rohmer
+"Wilde, Oscar",174,http://en.wikipedia.org/wiki/Oscar_Wilde
+"Leroux, Gaston",175,https://en.wikipedia.org/wiki/Gaston_Leroux
+"James, Henry",176,https://en.wikipedia.org/wiki/Henry_James
+Project Gutenberg,200,https://en.wikipedia.org/wiki/Project_Gutenberg
+"Stowe, Harriet Beecher",203,https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+"Service, Robert W. (Robert William)",207,https://en.wikipedia.org/wiki/Robert_W._Service
+"Paterson, A. B. (Andrew Barton)",213,https://en.wikipedia.org/wiki/Banjo_Paterson
+"Lawson, Henry",214,https://en.wikipedia.org/wiki/Henry_Lawson
+"London, Jack",215,https://en.wikipedia.org/wiki/Jack_London
+Laozi,216,https://en.wikipedia.org/wiki/Lao_Zi
+"Lawrence, D. H. (David Herbert)",217,https://en.wikipedia.org/wiki/D._H._Lawrence
+"Caesar, Julius",218,https://en.wikipedia.org/wiki/Julius_Caesar
+"Conrad, Joseph",219,https://en.wikipedia.org/wiki/Joseph_Conrad
+"Maugham, W. Somerset (William Somerset)",222,https://en.wikipedia.org/wiki/W._Somerset_Maugham
+"MacDonald, George",225,https://en.wikipedia.org/wiki/George_MacDonald
+"Cicero, Marcus Tullius",226,http://en.wikipedia.org/wiki/Cicero
+Virgil,227,https://en.wikipedia.org/wiki/Virgil
+"Dreiser, Theodore",233,https://en.wikipedia.org/wiki/Theodore_Dreiser
+"Kipling, Rudyard",236,https://en.wikipedia.org/wiki/Rudyard_Kipling
+"Propertius, Sextus",237,http://en.wikipedia.org/wiki/Sextus_Propertius
+"Brown, William Wells",241,https://en.wikipedia.org/wiki/William_Wells_Brown
+"Tolstoy, Leo, graf",243,https://en.wikipedia.org/wiki/Leo_Tolstoy
+Omar Khayyam,246,https://en.wikipedia.org/wiki/Omar_Khayyam
+"Webster, Noah",247,https://en.wikipedia.org/wiki/Noah_Webster
+Library of Congress. Copyright Office,252,https://en.wikipedia.org/wiki/United_States_Copyright_Office
+Coalition for Networked Information,253,https://en.wikipedia.org/wiki/Coalition_for_Networked_Information
+"Chaucer, Geoffrey",257,https://en.wikipedia.org/wiki/Geoffrey_Chaucer
+"Gordon, Adam Lindsay",258,https://en.wikipedia.org/wiki/Adam_Lindsay_Gordon
+"Browning, Robert",260,https://en.wikipedia.org/wiki/Robert_Browning
+"Lowell, Amy",261,https://en.wikipedia.org/wiki/Amy_Lowell
+"Brooke, Rupert",262,https://en.wikipedia.org/wiki/Rupert_Brooke
+"Kilmer, Joyce",263,https://en.wikipedia.org/wiki/Joyce_Kilmer
+"Gower, John",266,https://en.wikipedia.org/wiki/John_Gower
+Saki,269,https://en.wikipedia.org/wiki/Saki
+"Grahame, Kenneth",270,https://en.wikipedia.org/wiki/Kenneth_Grahame
+"Sewell, Anna",271,https://en.wikipedia.org/wiki/Anna_Sewell
+"Luther, Martin",272,https://en.wikipedia.org/wiki/Martin_Luther
+"Melanchthon, Philipp",275,https://en.wikipedia.org/wiki/Philipp_Melanchthon
+"Haydn, Joseph",276,https://en.wikipedia.org/wiki/Joseph_Haydn
+National Atomic Museum (U.S.),277,https://en.wikipedia.org/wiki/National_Museum_of_Nuclear_Science_%26_History
+"Kinglake, Alexander William",282,https://en.wikipedia.org/wiki/Alexander_William_Kinglake
+"Hyne, Charles John Cutcliffe Wright",285,https://en.wikipedia.org/wiki/C._J._Cutcliffe_Hyne
+"Barr, Amelia E.",287,https://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+"Cabell, James Branch",288,https://en.wikipedia.org/wiki/James_Branch_Cabell
+"Taylor, Bayard",292,https://en.wikipedia.org/wiki/Bayard_Taylor
+"Alger, Horatio, Jr.",293,"https://en.wikipedia.org/wiki/Horatio_Alger,_Jr."
+"Tarkington, Booth",297,https://en.wikipedia.org/wiki/Booth_Tarkington
+"Boyesen, Hjalmar Hjorth",299,https://en.wikipedia.org/wiki/Hjalmar_Hjorth_Boyesen
+"Gaboriau, Emile",305,http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+"Jerome, Jerome K. (Jerome Klapka)",308,https://en.wikipedia.org/wiki/Jerome_K._Jerome
+"Benét, Stephen Vincent",312,https://en.wikipedia.org/wiki/Stephen_Vincent_Benét
+"Robinson, Edwin Arlington",313,https://en.wikipedia.org/wiki/Edwin_Arlington_Robinson
+"Dobie, J. Frank (James Frank)",314,https://en.wikipedia.org/wiki/J._Frank_Dobie
+"Drake, Joseph Rodman",317,https://en.wikipedia.org/wiki/Joseph_Rodman_Drake
+"Fox, John, Jr.",324,https://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+"Muir, John",326,https://en.wikipedia.org/wiki/John_Muir
+"Davis, Richard Harding",327,http://en.wikipedia.org/wiki/Richard_Harding_Davis
+"Guest, Edgar A. (Edgar Albert)",328,https://en.wikipedia.org/wiki/Edgar_Guest
+"Rinehart, Mary Roberts",330,https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+"Page, Thomas Nelson",332,https://en.wikipedia.org/wiki/Thomas_Nelson_Page
+"Raleigh, Walter Alexander, Sir",333,https://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
+"Davis, Rebecca Harding",335,https://en.wikipedia.org/wiki/Rebecca_Harding_Davis
+"Eastman, Charles A.",336,https://en.wikipedia.org/wiki/Charles_Eastman
+Zitkala-Sa,338,https://en.wikipedia.org/wiki/Zitkala-Sa
+"Stoker, Bram",345,https://en.wikipedia.org/wiki/Bram_Stoker
+Hesiod,348,https://en.wikipedia.org/wiki/Hesiod
+"Ferber, Edna",350,https://en.wikipedia.org/wiki/Edna_Ferber
+"McCrae, John",353,https://en.wikipedia.org/wiki/John_McCrae
+"Jordan, Elizabeth Garver",354,https://en.wikipedia.org/wiki/Elizabeth_Jordan
+"Olcott, Frances Jenkins",359,https://en.wikipedia.org/wiki/Frances_Jenkins_Olcott
+"Proudhon, P.-J. (Pierre-Joseph)",360,http://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon
+"Porter, Eleanor H. (Eleanor Hodgman)",361,https://en.wikipedia.org/wiki/Eleanor_H._Porter
+"Austin, Mary",365,https://en.wikipedia.org/wiki/Mary_Hunter_Austin
+"Jewett, Sarah Orne",367,http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+"Conwell, Russell H.",368,https://en.wikipedia.org/wiki/Russell_Conwell
+"Defoe, Daniel",370,http://en.wikipedia.org/wiki/Daniel_Defoe
+"Wheatley, Henry B. (Henry Benjamin)",371,https://en.wikipedia.org/wiki/Henry_B._Wheatley
+"Bierce, Ambrose",374,https://en.wikipedia.org/wiki/Ambrose_Bierce
+"Martorell, Joanot",378,https://en.wikipedia.org/wiki/Joanot_Martorell
+"Goldsmith, Oliver",383,http://en.wikipedia.org/wiki/Oliver_Goldsmith
+"Grey, Zane",385,https://en.wikipedia.org/wiki/Zane_Grey
+"Churchill, Winston",388,https://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
+"Machen, Arthur",389,http://en.wikipedia.org/wiki/Arthur_Machen
+"Tasso, Torquato",392,https://en.wikipedia.org/wiki/Torquato_Tasso
+"Stacpoole, H. De Vere (Henry De Vere)",393,https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+"Gaskell, Elizabeth Cleghorn",394,https://en.wikipedia.org/wiki/Elizabeth_Gaskell
+"Stockton, Frank Richard",396,https://en.wikipedia.org/wiki/Frank_R._Stockton
+"Platt, Rutherford Hayes",398,https://en.wikipedia.org/wiki/Rutherford_Platt
+"Teasdale, Sara",400,https://en.wikipedia.org/wiki/Sara_Teasdale
+"Smiles, Samuel",404,https://en.wikipedia.org/wiki/Samuel_Smiles
+"Du Bois, W. E. B. (William Edward Burghardt)",408,https://en.wikipedia.org/wiki/W._E._B._Du_Bois
+"Wheatley, Phillis",409,https://en.wikipedia.org/wiki/Phillis_Wheatley
+"Hubbard, Elbert",412,https://en.wikipedia.org/wiki/Elbert_Hubbard
+"Jefferies, Richard",414,https://en.wikipedia.org/wiki/Richard_Jefferies
+"Borrow, George",415,https://en.wikipedia.org/wiki/George_Borrow
+"Anderson, Sherwood",416,https://en.wikipedia.org/wiki/Sherwood_Anderson
+"Lindsay, Vachel",424,https://en.wikipedia.org/wiki/Vachel_Lindsay
+"Phillips, David Graham",430,https://en.wikipedia.org/wiki/David_Graham_Phillips
+"Houdini, Harry",435,https://en.wikipedia.org/wiki/Harry_Houdini
+"Field, Eugene",443,https://en.wikipedia.org/wiki/Eugene_Field
+"Le Bon, Gustave",445,https://en.wikipedia.org/wiki/Gustave_Le_Bon
+"Irving, H. B. (Henry Brodribb)",446,https://en.wikipedia.org/wiki/Harry_Brodribb_Irving
+"Leland, Charles Godfrey",454,https://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+"Marquis, Don",458,https://en.wikipedia.org/wiki/Don_Marquis
+"Le Gallienne, Richard",461,https://en.wikipedia.org/wiki/Richard_Le_Gallienne
+"White, Stewart Edward",465,https://en.wikipedia.org/wiki/Stewart_Edward_White
+"La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne)",467,https://fr.wikipedia.org/wiki/Madame_de_La_Fayette
+"Prévost, abbé",468,https://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+"Balzac, Honoré de",469,http://en.wikipedia.org/wiki/Honoré_de_Balzac
+"Chesnutt, Charles W. (Charles Waddell)",472,https://en.wikipedia.org/wiki/Charles_Chesnutt
+"Bryant, Sara Cone",473,https://en.wikipedia.org/wiki/Sara_Cone_Bryant
+"Booth, William",475,https://en.wikipedia.org/wiki/William_Booth
+"Nasmyth, James",476,https://en.wikipedia.org/wiki/James_Nasmyth
+"Ferri, Enrico",477,https://en.wikipedia.org/wiki/Enrico_Ferri
+"Michelson, Miriam",481,https://en.wikipedia.org/wiki/Miriam_Michelson
+"Optic, Oliver",484,https://en.wikipedia.org/wiki/William_Taylor_Adams
+Calamity Jane,490,https://en.wikipedia.org/wiki/Calamity_Jane
+"Atherton, Gertrude Franklin Horn",491,https://en.wikipedia.org/wiki/Gertrude_Atherton
+"Craik, Dinah Maria Mulock",496,https://en.wikipedia.org/wiki/Dinah_Craik
+"Wiggin, Kate Douglas Smith",498,https://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+"Appleton, Victor",499,https://en.wikipedia.org/wiki/Victor_Appleton
+"Collodi, Carlo",500,https://en.wikipedia.org/wiki/Carlo_Collodi
+"Lofting, Hugh",501,https://en.wikipedia.org/wiki/Hugh_Lofting
+"Sousa, John Philip",504,https://en.wikipedia.org/wiki/John_Philip_Sousa
+"White, Andrew Dickson",505,https://en.wikipedia.org/wiki/Andrew_Dickson_White
+"Le Fanu, Joseph Sheridan",509,https://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+"Bower, B. M.",538,https://en.wikipedia.org/wiki/B._M._Bower
+"Tuckwell, William",539,https://en.wikipedia.org/wiki/William_Tuckwell
+"Lewis, Sinclair",543,https://en.wikipedia.org/wiki/Sinclair_Lewis
+"Stout, Rex",546,https://en.wikipedia.org/wiki/Rex_Stout
+"Azuela, Mariano",549,https://en.wikipedia.org/wiki/Mariano_Azuela
+"Tyler, Royall",554,https://en.wikipedia.org/wiki/Royall_Tyler
+"Buchan, John",558,"https://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir"
+"Schiller, Friedrich",566,https://de.wikipedia.org/wiki/Friedrich_Schiller
+"Brann, William Cowper",567,https://en.wikipedia.org/wiki/William_Cowper_Brann
+"Fries, Adelaide L. (Adelaide Lisetta)",570,https://en.wikipedia.org/wiki/Adelaide_Fries
+"Potter, Beatrix",572,https://en.wikipedia.org/wiki/Beatrix_Potter
+"Lamb, Mary",573,https://en.wikipedia.org/wiki/Mary_Lamb
+"Blake, William",574,https://en.wikipedia.org/wiki/William_Blake
+"Bacon, Francis",575,https://en.wikipedia.org/wiki/Francis_Bacon
+"Johnson, Samuel",577,https://en.wikipedia.org/wiki/Samuel_Johnson
+"Lanier, Sidney",579,https://en.wikipedia.org/wiki/Sidney_Lanier
+"Jenkins, Edward",581,https://en.wikipedia.org/wiki/Edward_Jenkins_(MP)
+"Wilson, Harriet E.",584,https://en.wikipedia.org/wiki/Harriet_E._Wilson
+"Craft, Ellen",585,https://en.wikipedia.org/wiki/Ellen_and_William_Craft
+"Browne, Thomas, Sir",586,https://en.wikipedia.org/wiki/Thomas_Browne
+"Japp, Alexander H. (Alexander Hay)",590,https://en.wikipedia.org/wiki/Alexander_Hay_Japp
+"Maupassant, Guy de",593,https://en.wikipedia.org/wiki/Guy_de_Maupassant
+"Aldrich, Thomas Bailey",595,https://en.wikipedia.org/wiki/Thomas_Bailey_Aldrich
+Snorri Sturluson,598,https://en.wikipedia.org/wiki/Snorri_Sturluson
+"Thackeray, William Makepeace",599,https://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+"Dostoyevsky, Fyodor",600,https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+"Lewis, M. G. (Matthew Gregory)",601,https://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+Lucan,602,https://en.wikipedia.org/wiki/Marcus_Annaeus_Lucanus
+"Arnold, Edwin Lester Linden",604,https://en.wikipedia.org/wiki/Edwin_Lester_Linden_Arnold
+"Linderman, Frank Bird",606,https://en.wikipedia.org/wiki/Frank_Bird_Linderman
+"Wu, Tingfang",609,http://en.wikipedia.org/wiki/Wu_Tingfang
+"Tennyson, Alfred Tennyson, Baron",610,"https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson"
+Japan,612,https://en.wikipedia.org/wiki/Japan
+"Ariosto, Lodovico",615,https://it.wikipedia.org/wiki/Ludovico_Ariosto
+"Seeger, Alan",617,https://en.wikipedia.org/wiki/Alan_Seeger
+"Trollope, Anthony",619,https://en.wikipedia.org/wiki/Anthony_Trollope
+"James, William",621,http://en.wikipedia.org/wiki/William_James
+"Swift, Jonathan",623,https://en.wikipedia.org/wiki/Jonathan_Swift
+"Bellamy, Edward",624,https://en.wikipedia.org/wiki/Edward_Bellamy
+"Bury, Richard de",626,http://en.wikipedia.org/wiki/Richard_Aungerville
+"Mackay, Charles",636,https://en.wikipedia.org/wiki/Charles_Mackay
+"Gamble, Eliza Burt",639,https://en.wikipedia.org/wiki/Eliza_Gamble
+"Ballantyne, R. M. (Robert Michael)",646,https://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+"Stevenson, Fanny Van de Grift",647,http://en.wikipedia.org/wiki/Fanny_Stevenson
+"Sharp, William",656,https://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+"Quintus, Smyrnaeus, active 4th century",658,https://en.wikipedia.org/wiki/Quintus_Smyrnaeus
+Plutarch,674,https://en.wikipedia.org/wiki/Plutarch
+"Kingsley, Charles",677,https://en.wikipedia.org/wiki/Charles_Kingsley
+"Harper, Frances Ellen Watkins",679,https://en.wikipedia.org/wiki/Frances_Harper
+"Naidu, Sarojini",680,https://en.wikipedia.org/wiki/Sarojini_Naidu
+"Gorky, Maksim",681,https://en.wikipedia.org/wiki/Maxim_Gorky
+"Walton, Izaak",683,https://en.wikipedia.org/wiki/Izaak_Walton
+United States. Arms Control and Disarmament Agency,684,https://en.wikipedia.org/wiki/Arms_Control_and_Disarmament_Agency
+European Union,686,https://en.wikipedia.org/wiki/European_Union
+"Dunbar-Nelson, Alice Moore",688,https://en.wikipedia.org/wiki/Alice_Dunbar-Nelson
+"Russell, Bertrand",690,https://en.wikipedia.org/wiki/Bertrand_Russell
+"Riley, James Whitcomb",691,https://en.wikipedia.org/wiki/James_Whitcomb_Riley
+"Mitchell, S. Weir (Silas Weir)",693,https://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+"Walpole, Horace",696,https://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+"Ruskin, John",701,https://en.wikipedia.org/wiki/John_Ruskin
+"Lovelace, Richard",703,https://en.wikipedia.org/wiki/Richard_Lovelace
+"Van Dyke, Henry",704,https://en.wikipedia.org/wiki/Henry_van_Dyke
+"Fairless, Michael",705,https://en.wikipedia.org/wiki/Margaret_Barber
+"Hornung, E. W. (Ernest William)",706,https://en.wikipedia.org/wiki/Ernest_William_Hornung
+"Haggard, H. Rider (Henry Rider)",711,http://en.wikipedia.org/wiki/H._Rider_Haggard
+"Ellis, Edward Sylvester",712,https://en.wikipedia.org/wiki/Edward_S._Ellis
+"Hope, Laura Lee",714,https://en.wikipedia.org/wiki/Laura_Lee_Hope
+"Hearn, Lafcadio",717,https://en.wikipedia.org/wiki/Lafcadio_Hearn
+"Levy, Steven",729,https://en.wikipedia.org/wiki/Steven_Levy
+"Gibbon, Edward",731,https://it.wikipedia.org/wiki/Edward_Gibbon
+"Clay, Henry",739,https://en.wikipedia.org/wiki/Henry_Clay
+"Calhoun, John C. (John Caldwell)",740,https://en.wikipedia.org/wiki/John_C._Calhoun
+"Benton, Thomas Hart",741,https://en.wikipedia.org/wiki/Thomas_Hart_Benton_(politician)
+"Brisbane, Arthur",742,http://en.wikipedia.org/wiki/Arthur_Brisbane
+"Godwin, William",743,https://en.wikipedia.org/wiki/William_Godwin
+"Yates, Dornford",748,https://en.wikipedia.org/wiki/Dornford_Yates
+"John of Damascus, Saint",749,https://en.wikipedia.org/wiki/John_of_Damascus
+"Holmes, Oliver Wendell",751,"https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr."
+"Van Loon, Hendrik Willem",754,https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
+"Bird, Isabella L. (Isabella Lucy)",755,https://en.wikipedia.org/wiki/Isabella_Bird
+"Munk, J. A. (Joseph Amasa)",756,https://en.wikipedia.org/wiki/Joseph_Amasa_Munk
+"Gilbert, W. S. (William Schwenck)",757,https://en.wikipedia.org/wiki/W._S._Gilbert
+"Beerbohm, Max, Sir",759,https://en.wikipedia.org/wiki/Max_Beerbohm
+"Dodge, Mary Mapes",764,https://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+"Merritt, Abraham",765,https://en.wikipedia.org/wiki/Abraham_Merritt
+"Brontë, Anne",767,https://en.wikipedia.org/wiki/Anne_Bront%C3%AB
+"Brontë, Emily",768,https://en.wikipedia.org/wiki/Emily_Brontë
+"Okakura, Kakuzo",769,https://en.wikipedia.org/wiki/Okakura_Kakuzo
+"Nesbit, E. (Edith)",770,https://en.wikipedia.org/wiki/E._Nesbit
+"Brontë, Charlotte",771,https://en.wikipedia.org/wiki/Charlotte_Brontë
+"Marlowe, Christopher",779,https://en.wikipedia.org/wiki/Christopher_Marlowe
+"Mandeville, John, Sir",782,https://en.wikipedia.org/wiki/John_Mandeville
+"Lucretius Carus, Titus",785,https://en.wikipedia.org/wiki/Lucretius
+"Brown, Charles Brockden",792,https://en.wikipedia.org/wiki/Charles_Brockden_Brown
+Stendhal,796,https://fr.wikipedia.org/wiki/Stendhal
+"Sterne, Laurence",804,https://en.wikipedia.org/wiki/Laurence_Sterne
+"Fitzgerald, F. Scott (Francis Scott)",805,https://en.wikipedia.org/wiki/F._Scott_Fitzgerald
+"Sullivan, Arthur",808,https://en.wikipedia.org/wiki/Arthur_Sullivan
+"Tolstoi, Ilia Lvovich, graf",813,https://en.wikipedia.org/wiki/Ilya_Tolstoy
+"Tocqueville, Alexis de",815,https://fr.wikipedia.org/wiki/Alexis_de_Tocqueville
+"Barber, H. (Horatio)",818,https://en.wikipedia.org/wiki/Horatio_Barber
+"Casson, Herbert Newton",819,https://en.wikipedia.org/wiki/Herbert_Newton_Casson
+"Apollonius, Rhodius",830,https://en.wikipedia.org/wiki/Apollonius_of_Rhodes
+"Chrétien, de Troyes, active 12th century",831,https://fr.wikipedia.org/wiki/Chr%C3%A9tien_de_Troyes
+"Veblen, Thorstein",833,https://en.wikipedia.org/wiki/Thorstein_Veblen
+"Blackmore, R. D. (Richard Doddridge)",840,https://en.wikipedia.org/wiki/R._D._Blackmore
+"Simms, William Gilmore",843,https://en.wikipedia.org/wiki/William_Gilmore_Simms
+"Timrod, Henry",845,https://en.wikipedia.org/wiki/Henry_Timrod
+"Weems, M. L. (Mason Locke)",846,https://en.wikipedia.org/wiki/Mason_Locke_Weems
+"Macaulay, Thomas Babington Macaulay, Baron",847,https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay
+"Smith, Francis Hopkinson",850,https://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+"Rowlandson, Mary White",851,https://en.wikipedia.org/wiki/Mary_Rowlandson
+"Dewey, John",852,https://en.wikipedia.org/wiki/John_Dewey
+"Mayo, Margaret",859,https://en.wikipedia.org/wiki/Margaret_Mayo_(playwright)
+"Bacon, John M. (John Mackenzie)",861,https://en.wikipedia.org/wiki/John_Mackenzie_Bacon
+"Wister, Owen",862,https://en.wikipedia.org/wiki/Owen_Wister
+"Christie, Agatha",863,https://en.wikipedia.org/wiki/Agatha_Christie
+Epictetus,871,https://en.wikipedia.org/wiki/Epictetus
+"Vivian, Evelyn Charles",874,https://en.wikipedia.org/wiki/E._C._Vivian
+"Whittier, John Greenleaf",878,https://en.wikipedia.org/wiki/John_Greenleaf_Whittier
+"Lowell, James Russell",880,https://en.wikipedia.org/wiki/James_Russell_Lowell
+"Stoddard, Elizabeth",881,https://en.wikipedia.org/wiki/Elizabeth_Drew_Stoddard
+"Duff Gordon, Lucie, Lady",886,https://en.wikipedia.org/wiki/Lucie%2C_Lady_Duff-Gordon
+"Der Ling, Princess",889,https://en.wikipedia.org/wiki/Princess_Der_Ling
+"Adams, John Quincy",896,https://en.wikipedia.org/wiki/John_Quincy_Adams
+"Dana, Marvin",905,https://en.wikipedia.org/wiki/Marvin_Dana
+"Shaw, Bernard",908,https://en.wikipedia.org/wiki/George_Bernard_Shaw
+"Filson, John",909,https://en.wikipedia.org/wiki/John_Filson
+"Lermontov, Mikhail Iurevich",913,https://en.wikipedia.org/wiki/Mikhail_Lermontov
+"Spinoza, Benedictus de",919,https://en.wikipedia.org/wiki/Baruch_Spinoza
+United States. Presidents,925,https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States
+"Miller, Gustavus Hindman",926,https://en.wikipedia.org/wiki/Gustavus_Hindman_Miller
+St. Jude,929,https://en.wikipedia.org/wiki/Jude_Milhon
+"Poe, Edgar Allan",932,https://en.wikipedia.org/wiki/Edgar_Allan_Poe
+"Ryan, Abram Joseph",937,https://en.wikipedia.org/wiki/Abram_J._Ryan
+"Cooper, James Fenimore",940,https://en.wikipedia.org/wiki/James_Fenimore_Cooper
+"Hudson, W. H. (William Henry)",942,https://en.wikipedia.org/wiki/William_Henry_Hudson
+"Darwin, Charles",944,http://en.wikipedia.org/wiki/Charles_Darwin
+"Haldeman-Julius, E. (Emanuel)",945,https://en.wikipedia.org/wiki/E._Haldeman-Julius
+"Southey, Robert",947,https://en.wikipedia.org/wiki/Robert_Southey
+"Kendall, Henry",962,https://en.wikipedia.org/wiki/Henry_Kendall_%28poet%29
+"Pyle, Howard",964,https://en.wikipedia.org/wiki/Howard_Pyle
+"Dumas, Alexandre",965,"https://en.wikipedia.org/wiki/Alexandre_Dumas,_père"
+"Peacock, Thomas Love",966,https://en.wikipedia.org/wiki/Thomas_Love_Peacock
+"Stewart, Cal",970,https://en.wikipedia.org/wiki/Cal_Stewart
+"Freeman, Mary Eleanor Wilkins",978,https://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+"Lear, Edward",982,https://en.wikipedia.org/wiki/Edward_Lear
+"Key, Ellen",988,http://en.wikipedia.org/wiki/Ellen_Key
+"Higginson, Thomas Wentworth",993,https://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+"Synge, J. M. (John Millington)",994,https://en.wikipedia.org/wiki/John_Millington_Synge
+"Cervantes Saavedra, Miguel de",996,http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+Dante Alighieri,997,https://en.wikipedia.org/wiki/Dante_Alighieri
+"Parkman, Francis",1015,https://en.wikipedia.org/wiki/Francis_Parkman
+"Osbourne, Lloyd",1024,https://en.wikipedia.org/wiki/Lloyd_Osbourne
+"Rumford, Benjamin, Graf von",1025,https://en.wikipedia.org/wiki/Benjamin_Thompson
+"Grossmith, George",1026,https://en.wikipedia.org/wiki/George_Grossmith
+"Owen, Wilfred",1034,https://en.wikipedia.org/wiki/Wilfred_Owen
+"Venables, Edmund",1037,https://en.wikipedia.org/wiki/Edmund_Venables
+"Livingstone, David",1039,https://en.wikipedia.org/wiki/David_Livingstone
+"Meredith, George",1042,https://en.wikipedia.org/wiki/George_Meredith
+"McCabe, Joseph",1043,https://en.wikipedia.org/wiki/Joseph_McCabe
+"Summerhayes, Martha",1049,https://en.wikipedia.org/wiki/Martha_Summerhayes
+"Carlyle, Thomas",1051,https://en.wikipedia.org/wiki/Thomas_Carlyle
+American Tract Society,1052,https://en.wikipedia.org/wiki/American_Tract_Society
+"Fiske, John",1061,https://en.wikipedia.org/wiki/John_Fiske
+"Freeman, Edward A. (Edward Augustus)",1066,http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+"Grant, Ulysses S. (Ulysses Simpson)",1067,https://en.wikipedia.org/wiki/Ulysses_S._Grant
+"Zola, Émile",1069,https://fr.wikipedia.org/wiki/%C3%89mile_Zola
+"Bramah, Ernest",1076,https://en.wikipedia.org/wiki/Ernest_Bramah
+"Altsheler, Joseph A. (Joseph Alexander)",1078,https://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+"Gogol, Nikolai Vasilevich",1081,https://fi.wikipedia.org/wiki/Nikolai_Gogol
+"Seton, Ernest Thompson",1088,http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+"Giraldus, Cambrensis",1092,https://en.wikipedia.org/wiki/Giraldus_Cambrensis
+"Fielding, Henry",1146,https://en.wikipedia.org/wiki/Henry_Fielding
+"Saxo, Grammaticus",1150,https://en.wikipedia.org/wiki/Saxo_Grammaticus
+"Brieux, Eugène",1157,https://en.wikipedia.org/wiki/Eugène_Brieux
+"Green, Anna Katharine",1167,http://en.wikipedia.org/wiki/Anna_Katharine_Green
+"Duncan, Sara Jeannette",1168,https://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
+Xenophon,1169,https://en.wikipedia.org/wiki/Xenophon
+"Draper, John William",1185,https://en.wikipedia.org/wiki/John_William_Draper
+"Meynell, Alice",1186,https://en.wikipedia.org/wiki/Alice_Meynell
+"Congreve, William",1191,https://en.wikipedia.org/wiki/William_Congreve
+"Rougemont, Louis de",1194,https://en.wikipedia.org/wiki/Louis_de_Rougemont
+"Boldrewood, Rolf",1198,https://en.wikipedia.org/wiki/Rolf_Boldrewood
+"Rabelais, François",1200,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais
+"Spooner, Lysander",1201,https://en.wikipedia.org/wiki/Lysander_Spooner
+"Prescott, William Hickling",1209,https://en.wikipedia.org/wiki/William_H._Prescott
+"Herrick, Robert",1211,https://en.wikipedia.org/wiki/Robert_Herrick_(poet)
+"Babbage, Charles",1216,http://en.wikipedia.org/wiki/Charles_Babbage
+"Packard, Frank L. (Frank Lucius)",1218,https://en.wikipedia.org/wiki/Frank_L._Packard
+"Coulter, John Merle",1221,https://en.wikipedia.org/wiki/John_Merle_Coulter
+"Cobb, Irvin S. (Irvin Shrewsbury)",1222,https://en.wikipedia.org/wiki/Irvin_S._Cobb
+"Mims, Edwin",1224,https://en.wikipedia.org/wiki/Edwin_Mims
+"Tyndall, John",1225,https://en.wikipedia.org/wiki/John_Tyndall
+"Machiavelli, Niccolò",1232,https://it.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli
+"Crile, George Washington",1233,https://en.wikipedia.org/wiki/George_Washington_Crile
+"Gautier, Théophile",1235,https://en.wikipedia.org/wiki/Théophile_Gautier
+"Brooks, Noah",1236,https://en.wikipedia.org/wiki/Noah_Brooks
+"Thomson, James",1238,"https://en.wikipedia.org/wiki/James_Thomson_(poet,_born_1834)"
+"Aiken, Conrad",1246,https://en.wikipedia.org/wiki/Conrad_Aiken
+"Rand, Ayn",1249,https://en.wikipedia.org/wiki/Ayn_Rand
+"Malory, Thomas, Sir",1251,https://en.wikipedia.org/wiki/Thomas_Malory
+"Flaubert, Gustave",1253,https://fr.wikipedia.org/wiki/Gustave_Flaubert
+"Rostand, Edmond",1254,https://en.wikipedia.org/wiki/Edmond_Rostand
+"Strachey, Lytton",1265,https://en.wikipedia.org/wiki/Lytton_Strachey
+"Reed, Myrtle",1266,https://en.wikipedia.org/wiki/Myrtle_Reed
+"Mencken, H. L. (Henry Louis)",1270,https://en.wikipedia.org/wiki/H._L._Mencken
+"Lyall, Edna",1273,https://en.wikipedia.org/wiki/Ada_Ellen_Bayly
+"Masefield, John",1274,https://en.wikipedia.org/wiki/John_Masefield
+"Burns, Robert",1279,https://en.wikipedia.org/wiki/Robert_Burns
+"Masters, Edgar Lee",1280,https://en.wikipedia.org/wiki/Edgar_Lee_Masters
+"Butler, Ellis Parker",1285,https://en.wikipedia.org/wiki/Ellis_Parker_Butler
+"Lamb, Charles",1286,https://en.wikipedia.org/wiki/Charles_Lamb
+"Goethe, Johann Wolfgang von",1287,https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+"Galt, John",1296,https://en.wikipedia.org/wiki/John_Galt
+"Davis, James J. (James John)",1297,https://en.wikipedia.org/wiki/James_J._Davis
+"Blades, William",1302,https://en.wikipedia.org/wiki/William_Blades
+"Caine, Hall, Sir",1303,https://en.wikipedia.org/wiki/Hall_Caine
+"Dunsany, Lord",1311,https://en.wikipedia.org/wiki/Lord_Dunsany
+"Harte, Bret",1312,https://en.wikipedia.org/wiki/Bret_Harte
+"Oppenheim, E. Phillips (Edward Phillips)",1314,http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+"Huxley, Thomas Henry",1315,https://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+"Scott, Walter Dill",1319,https://en.wikipedia.org/wiki/Walter_Dill_Scott
+"Gross, Hans",1320,https://en.wikipedia.org/wiki/Hans_Gross
+"Eliot, T. S. (Thomas Stearns)",1321,https://en.wikipedia.org/wiki/T._S._Eliot
+"Whitman, Walt",1322,https://en.wikipedia.org/wiki/Walt_Whitman
+"Ransome, Arthur",1324,https://en.wikipedia.org/wiki/Arthur_Ransome
+"Addams, Jane",1325,https://en.wikipedia.org/wiki/Jane_Addams
+"Von Arnim, Elizabeth",1327,https://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+"Lindsay, David",1329,https://en.wikipedia.org/wiki/David_Lindsay_%28novelist%29
+"Bannerman, Helen",1330,https://en.wikipedia.org/wiki/Helen_Bannerman
+"Murray, R. F. (Robert Fuller)",1333,https://en.wikipedia.org/wiki/Robert_Fuller_Murray
+"Thompson, Francis",1336,https://en.wikipedia.org/wiki/Francis_Thompson
+"Waterlow, Sydney",1337,https://en.wikipedia.org/wiki/Sydney_Waterlow_(diplomat)
+"Cardozo, Benjamin N. (Benjamin Nathan)",1341,https://en.wikipedia.org/wiki/Benjamin_N._Cardozo
+"Le Roy, Edouard",1347,https://en.wikipedia.org/wiki/%C3%89douard_Le_Roy
+"McCarter, Margaret Hill",1348,https://en.wikipedia.org/wiki/Margaret_Hill_McCarter
+"Wallace, Donald Mackenzie",1349,https://en.wikipedia.org/wiki/Donald_Mackenzie_Wallace
+"Bullen, Frank Thomas",1356,https://en.wikipedia.org/wiki/Frank_Thomas_Bullen
+"Reade, Charles",1366,https://en.wikipedia.org/wiki/Charles_Reade
+Ouida,1367,https://en.wikipedia.org/wiki/Ouida
+"Bonneville, Benjamin Louis Eulalie de",1372,https://en.wikipedia.org/wiki/Benjamin_Bonneville
+"Clough, Arthur Hugh",1393,https://en.wikipedia.org/wiki/Arthur_Hugh_Clough
+"Lytton, Edward Bulwer Lytton, Baron",1396,"https://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton"
+"Volney, C.-F. (Constantin-François)",1397,"https://en.wikipedia.org/wiki/Constantin_Fran%C3%A7ois_de_Chasseb%C5%93uf,_comte_de_Volney"
+"Troward, T. (Thomas)",1398,https://en.wikipedia.org/wiki/Thomas_Troward
+"White, Gilbert",1408,https://en.wikipedia.org/wiki/Gilbert_White
+"Lowell, Percival",1409,https://en.wikipedia.org/wiki/Percival_Lowell
+"Marryat, Frederick",1412,https://en.wikipedia.org/wiki/Frederick_Marryat
+"Graves, Robert",1418,https://en.wikipedia.org/wiki/Robert_Graves
+"Edgeworth, Maria",1424,https://en.wikipedia.org/wiki/Maria_Edgeworth
+"Mansfield, Katherine",1429,https://en.wikipedia.org/wiki/Katherine_Mansfield
+"Schreiner, Olive",1431,https://en.wikipedia.org/wiki/Olive_Schreiner
+"Lobo, Jerónimo",1436,https://pt.wikipedia.org/wiki/Jer%C3%B3nimo_Lobo
+"Henry, O.",1444,http://en.wikipedia.org/wiki/O._Henry
+"Stewart, Donald Ogden",1446,https://en.wikipedia.org/wiki/Donald_Ogden_Stewart
+"Spyri, Johanna",1448,https://en.wikipedia.org/wiki/Johanna_Spyri
+"Tilden, William T. (William Tatem)",1451,https://en.wikipedia.org/wiki/Bill_Tilden
+"Plaatje, Sol. T. (Solomon Tshekisho)",1452,https://en.wikipedia.org/wiki/Sol_Plaatje
+"Sabatini, Rafael",1457,https://en.wikipedia.org/wiki/Rafael_Sabatini
+"Gissing, George",1463,https://en.wikipedia.org/wiki/George_Gissing
+"Keene, H. G. (Henry George)",1470,https://en.wikipedia.org/wiki/Henry_George_Keene_(1826%E2%80%931915)
+"Cunninghame Graham, R. B. (Robert Bontine)",1479,https://en.wikipedia.org/wiki/Cunninghame_Graham
+"Hughes, Thomas",1480,https://en.wikipedia.org/wiki/Thomas_Hughes
+"Blasco Ibáñez, Vicente",1484,https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+"Nation, Carry Amelia",1485,https://en.wikipedia.org/wiki/Carrie_Nation
+"Brooks, Elbridge S. (Elbridge Streeter)",1488,https://en.wikipedia.org/wiki/Elbridge_Streeter_Brooks
+"McGuffey, William Holmes",1489,https://en.wikipedia.org/wiki/William_Holmes_McGuffey
+"Hale, Edward Everett",1492,https://en.wikipedia.org/wiki/Edward_Everett_Hale
+"Ginzberg, Louis",1493,https://en.wikipedia.org/wiki/Louis_Ginzberg
+"Steele, Chester K.",1495,https://en.wikipedia.org/wiki/Chester_K._Steele
+"Lord, John",1498,https://en.wikipedia.org/wiki/John_Lord_(historian)
+Shakespeare (spurious and doubtful works),1542,https://en.wikipedia.org/wiki/Shakespeare_apocrypha
+"Morris, Charles",1560,https://en.wikipedia.org/wiki/Charles_Morris_(American_writer)
+"Carpenter, Edward",1561,https://en.wikipedia.org/wiki/Edward_Carpenter
+"Leblanc, Maurice",1563,https://en.wikipedia.org/wiki/Maurice_Leblanc
+"Boswell, James",1564,https://en.wikipedia.org/wiki/James_Boswell
+"Osler, William",1566,https://en.wikipedia.org/wiki/William_Osler
+"Henley, William Ernest",1568,https://en.wikipedia.org/wiki/William_Ernest_Henley
+"Myerson, Abraham",1575,https://en.wikipedia.org/wiki/Abraham_Myerson
+"Benton, Joel",1576,https://en.wikipedia.org/wiki/Joel_Benton
+"Phillpotts, Eden",1577,https://en.wikipedia.org/wiki/Eden_Phillpotts
+"McAfee, Cleland Boyd",1592,https://en.wikipedia.org/wiki/Cleland_Boyd_McAfee
+"Wood, Robert Williams",1593,https://en.wikipedia.org/wiki/Robert_W._Wood
+"Andersen, H. C. (Hans Christian)",1597,https://en.wikipedia.org/wiki/Hans_Christian_Andersen
+"Stephens, James",1605,https://en.wikipedia.org/wiki/James_Stephens_(author)
+"Astor, John Jacob",1607,https://en.wikipedia.org/wiki/John_Jacob_Astor_IV
+"Conkling, Hilda",1612,https://en.wikipedia.org/wiki/Hilda_Conkling
+"Clouston, J. Storer (Joseph Storer)",1613,https://en.wikipedia.org/wiki/J._Storer_Clouston
+"Hawthorne, Julian",1614,https://en.wikipedia.org/wiki/Julian_Hawthorne
+"Savage, Ernest Albert",1615,https://en.wikipedia.org/wiki/Ernest_Albert_Savage
+"Rojas, Fernando de",1619,https://es.wikipedia.org/wiki/Fernando_de_Rojas
+"Whibley, Charles",1632,https://en.wikipedia.org/wiki/Charles_Whibley
+"Dixon, Thomas, Jr.",1634,"http://en.wikipedia.org/wiki/Thomas_Dixon,_Jr."
+"Thomas, à Kempis",1653,https://en.wikipedia.org/wiki/Thomas_à_Kempis
+"Farrar, John Chipman",1664,https://en.wikipedia.org/wiki/John_Chipman_Farrar
+Apuleius,1666,https://en.wikipedia.org/wiki/Apuleius
+"Brown, Arthur Judson",1675,https://en.wikipedia.org/wiki/Arthur_Judson_Brown
+"Sanger, Margaret",1689,https://en.wikipedia.org/wiki/Margaret_Sanger
+"Johnston, Mary",1692,http://en.wikipedia.org/wiki/Mary_Johnston
+"Williams, Henry Smith",1705,https://en.wikipedia.org/wiki/Henry_Smith_Williams
+Homer,1727,https://en.wikipedia.org/wiki/Homer
+"Chekhov, Anton Pavlovich",1732,https://en.wikipedia.org/wiki/Anton_Chekhov
+"Hecker, J. F. C. (Justus Friedrich Carl)",1739,https://en.wikipedia.org/wiki/Justus_Hecker
+"MacGregor, Mary Esther Miller",1759,https://en.wikipedia.org/wiki/Mary_Esther_MacGregor
+"Raine, William MacLeod",1803,http://en.wikipedia.org/wiki/William_MacLeod_Raine
+"Biggers, Earl Derr",1814,https://en.wikipedia.org/wiki/Earl_Derr_Biggers
+"Ogden, Ruth",1816,https://en.wikipedia.org/wiki/Ruth_Ogden
+"Burgess, Thornton W. (Thornton Waldo)",1825,https://en.wikipedia.org/wiki/Thornton_Burgess
+"Lawson, John",1838,https://en.wikipedia.org/wiki/John_Lawson_%28explorer%29
+"Ascham, Roger",1844,https://en.wikipedia.org/wiki/Roger_Ascham
+"Lytton, Edward Robert Bulwer Lytton, Earl of",1852,http://en.wikipedia.org/wiki/Robert_Bulwer-Lytton%2C_1st_Earl_of_Lytton
+"Beck, L. Adams (Lily Adams)",1853,https://en.wikipedia.org/wiki/L._Adams_Beck
+"Daudet, Alphonse",1862,http://en.wikipedia.org/wiki/Alphonse_Daudet
+"Roosevelt, Theodore",1864,https://en.wikipedia.org/wiki/Theodore_Roosevelt
+"Milne, A. A. (Alan Alexander)",1872,https://en.wikipedia.org/wiki/A._A._Milne
+"Peattie, Elia Wilkinson",1875,https://en.wikipedia.org/wiki/Elia_W._Peattie
+"Whyte, Alexander",1885,https://en.wikipedia.org/wiki/Alexander_Whyte
+"Fabre, Jean-Henri",1887,https://en.wikipedia.org/wiki/Jean_Henri_Fabre
+"Punshon, E. R. (Ernest Robertson)",1888,https://en.wikipedia.org/wiki/E._R._Punshon
+"Blanchan, Neltje",1889,https://en.wikipedia.org/wiki/Neltje_Blanchan
+"Pfeiffer, Ida",1894,https://de.wikipedia.org/wiki/Ida_Pfeiffer
+"Weyman, Stanley John",1896,https://en.wikipedia.org/wiki/Stanley_J._Weyman
+"Brand, Max",1897,https://en.wikipedia.org/wiki/Max_Brand
+"Long, William J. (William Joseph)",1901,https://en.wikipedia.org/wiki/William_J._Long
+"Kilner, Dorothy",1904,http://en.wikipedia.org/wiki/Dorothy_Kilner
+"Fielding, Sarah",1905,https://en.wikipedia.org/wiki/Sarah_Fielding
+"Butler, Samuel",1906,https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)
+"Seward, A. C. (Albert Charles)",1909,http://en.wikipedia.org/wiki/Albert_Charles_Seward
+"MacGrath, Harold",1913,http://en.wikipedia.org/wiki/Harold_MacGrath
+"Reeve, Arthur B. (Arthur Benjamin)",1923,https://en.wikipedia.org/wiki/Arthur_B._Reeve
+"Cooper, Susan Fenimore",1927,https://en.wikipedia.org/wiki/Susan_Fenimore_Cooper
+"Sheridan, Richard Brinsley",1929,http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan
+"France, Anatole",1930,https://fr.wikipedia.org/wiki/Anatole_France
+"Clausewitz, Carl von",1946,https://de.wikipedia.org/wiki/Carl_von_Clausewitz
+Gildas,1949,https://en.wikipedia.org/wiki/Gildas
+"Chapin, E. H. (Edwin Hubbell)",1959,https://en.wikipedia.org/wiki/Edwin_Hubbell_Chapin
+"Sidney, Philip",1962,https://en.wikipedia.org/wiki/Philip_Sidney
+"Nennius, active 796",1972,https://en.wikipedia.org/wiki/Nennius
+Aristotle,1974,https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+"Racine, Jean",1977,https://en.wikipedia.org/wiki/Jean_Racine
+"Stallman, Richard",1981,https://en.wikipedia.org/wiki/Richard_Stallman
+"Akutagawa, Ryunosuke",1982,https://en.wikipedia.org/wiki/Akutagawa_Ryunosuke
+"Adams, Andy",1987,https://en.wikipedia.org/wiki/Andy_Adams_%28writer%29
+"Naunton, Robert, Sir",1992,https://en.wikipedia.org/wiki/Robert_Naunton
+"Nietzsche, Friedrich Wilhelm",1998,https://en.wikipedia.org/wiki/Friedrich_Nietzsche
+"Huxley, Aldous",1999,https://en.wikipedia.org/wiki/Aldous_Huxley
+"Browning, Elizabeth Barrett",2002,https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
+"Lewis, C. S. (Clive Staples)",2003,https://en.wikipedia.org/wiki/C._S._Lewis
+"Wodehouse, P. G. (Pelham Grenville)",2005,https://en.wikipedia.org/wiki/P._G._Wodehouse
+"Crofts, Freeman Wills",2013,https://en.wikipedia.org/wiki/Freeman_Wills_Crofts
+"Lowndes, Marie Belloc",2014,https://en.wikipedia.org/wiki/Marie_Belloc_Lowndes
+"Farnol, Jeffery",2025,http://en.wikipedia.org/wiki/Jeffery_Farnol
+"Niemann, August",2026,https://de.wikipedia.org/wiki/August_Wilhelm_Otto_Niemann
+Molière,2027,http://en.wikipedia.org/wiki/Moli%C3%A8re
+"Ellis, J. Breckenridge (John Breckenridge)",2029,https://en.wikipedia.org/wiki/J._Breckenridge_Ellis
+"King, L. W. (Leonard William)",2030,https://en.wikipedia.org/wiki/Leonard_William_King
+"Farjeon, Eleanor",2032,https://en.wikipedia.org/wiki/Eleanor_Farjeon
+"Maeterlinck, Maurice",2033,https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+"Baker, Samuel White, Sir",2036,https://en.wikipedia.org/wiki/Samuel_Baker
+"De Quincey, Thomas",2040,https://en.wikipedia.org/wiki/Thomas_De_Quincey
+"Adams, Henry",2044,https://en.wikipedia.org/wiki/Henry_Adams
+"Depew, Chauncey M. (Chauncey Mitchell)",2045,https://en.wikipedia.org/wiki/Chauncey_Depew
+"Hazlitt, William",2049,https://en.wikipedia.org/wiki/William_Hazlitt
+"Brownson, Orestes Augustus",2053,https://en.wikipedia.org/wiki/Orestes_Brownson
+"Dana, Richard Henry",2055,https://en.wikipedia.org/wiki/Richard_Henry_Dana_Jr.
+"Smith, George",2056,https://en.wikipedia.org/wiki/George_Smith_(1833%E2%80%931919)
+"Byrne, Donn",2058,https://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne
+"Beckford, William",2060,https://en.wikipedia.org/wiki/William_Beckford_(novelist)
+"Dryden, John",2062,http://en.wikipedia.org/wiki/John_Dryden
+"Garis, Howard Roger",2065,https://en.wikipedia.org/wiki/Howard_R._Garis
+"Ossendowski, Ferdynand Antoni",2067,https://en.wikipedia.org/wiki/Ferdynand_Antoni_Ossendowski
+"Lincoln, Joseph Crosby",2068,https://en.wikipedia.org/wiki/Joseph_C._Lincoln
+"Pinches, Theophilus G. (Theophilus Goldridge)",2069,https://en.wikipedia.org/wiki/Theophilus_Pinches
+"Benson, E. F. (Edward Frederic)",2072,https://en.wikipedia.org/wiki/E._F._Benson
+"Burckhardt, Jacob",2074,https://en.wikipedia.org/wiki/Jacob_Burckhardt
+"Giles, Herbert Allen",2076,https://en.wikipedia.org/wiki/Herbert_Giles
+"Lamothe-Langon, Etienne-Léon, baron de",2082,https://en.wikipedia.org/wiki/Lamothe-Langon
+"Lucas, E. V. (Edward Verrall)",2086,https://en.wikipedia.org/wiki/E._V._Lucas
+"Tao, Qian",2090,https://en.wikipedia.org/wiki/Tao_Yuanming
+"Adams, Samuel",2092,https://en.wikipedia.org/wiki/Samuel_Adams
+"Smith, William",2096,https://en.wikipedia.org/wiki/William_Smith_(lexicographer)
+Faxian,2124,https://en.wikipedia.org/wiki/Faxian
+"Saint-Pierre, Bernardin de",2127,https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre
+"More, Thomas, Saint",2130,https://en.wikipedia.org/wiki/Thomas_More
+Herodotus,2131,https://en.wikipedia.org/wiki/Herodotus
+"Mühlbach, L. (Luise)",2132,https://en.wikipedia.org/wiki/Luise_M%C3%BChlbach
+"Swinburne, Algernon Charles",2136,https://en.wikipedia.org/wiki/Algernon_Charles_Swinburne
+"Bray, William",2140,https://en.wikipedia.org/wiki/William_Bray_(antiquary)
+"Wallace, Lew",2145,http://en.wikipedia.org/wiki/Lew_Wallace
+"Moore, Frank Frankfort",2155,https://en.wikipedia.org/wiki/Frank_Frankfort_Moore
+"Smollett, T. (Tobias)",2160,https://en.wikipedia.org/wiki/Tobias_Smollett
+"Burke, Thomas",2161,https://en.wikipedia.org/wiki/Thomas_Burke_%28author%29
+"Goldman, Emma",2162,https://en.wikipedia.org/wiki/Emma_Goldman
+"Barbour, A. Maynard (Anna Maynard)",2172,https://en.wikipedia.org/wiki/Anna_Maynard_Barbour
+"Burke, Edmund",2173,https://en.wikipedia.org/wiki/Edmund_Burke
+"Reynolds, Joshua, Sir",2176,https://en.wikipedia.org/wiki/Joshua_Reynolds
+"Wieland, Christoph Martin",2187,https://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+"Rilke, Rainer Maria",2188,https://de.wikipedia.org/wiki/Rainer_Maria_Rilke
+"Anzengruber, Ludwig",2189,http://en.wikipedia.org/wiki/Ludwig_Anzengruber
+"Arnim, Ludwig Achim, Freiherr von",2190,https://de.wikipedia.org/wiki/Achim_von_Arnim
+"Ralphson, G. Harvey (George Harvey)",2191,https://en.wikipedia.org/wiki/George_Harvey_Ralphson
+"Galsworthy, John",2192,https://en.wikipedia.org/wiki/John_Galsworthy
+"Sand, George",2194,https://fr.wikipedia.org/wiki/George_Sand
+"Loti, Pierre",2196,https://en.wikipedia.org/wiki/Pierre_Loti
+"Basile, Giambattista",2198,https://it.wikipedia.org/wiki/Giambattista_Basile
+"Webster, John",2232,https://en.wikipedia.org/wiki/John_Webster
+"Roe, Edward Payson",2271,https://en.wikipedia.org/wiki/Edward_Payson_Roe
+"Raleigh, Walter",2272,https://en.wikipedia.org/wiki/Walter_Raleigh
+"Bennett, Arnold",2274,https://en.wikipedia.org/wiki/Arnold_Bennett
+"Hogg, James",2276,https://en.wikipedia.org/wiki/James_Hogg
+"Ibsen, Henrik",2289,https://no.wikipedia.org/wiki/Henrik_Ibsen
+"Larcom, Lucy",2293,https://en.wikipedia.org/wiki/Lucy_Larcom
+"Ball, Robert S. (Robert Stawell)",2298,https://en.wikipedia.org/wiki/Robert_Stawell_Ball
+"Procter, Adelaide Anne",2303,https://en.wikipedia.org/wiki/Adelaide_Anne_Procter
+"Harris, Joel Chandler",2306,https://en.wikipedia.org/wiki/Joel_Chandler_Harris
+"Allen, James Lane",2316,https://en.wikipedia.org/wiki/James_Lane_Allen
+"Busch, Wilhelm",2322,https://de.wikipedia.org/wiki/Wilhelm_Busch
+"Lee, Robert E. (Robert Edward)",2323,https://en.wikipedia.org/wiki/Robert_E._Lee_Jr.
+"Rawlinson, George",2331,https://en.wikipedia.org/wiki/George_Rawlinson
+"Evans, Christopher",2352,https://en.wikipedia.org/wiki/Christopher_Evans_(outlaw)
+"Childers, Erskine",2360,https://en.wikipedia.org/wiki/Erskine_Childers_(author)
+"Palmer, Alice Freeman",2361,https://en.wikipedia.org/wiki/Alice_Freeman_Palmer
+"Converse, Florence",2362,https://en.wikipedia.org/wiki/Florence_Converse
+"Brame, Charlotte M.",2374,https://en.wikipedia.org/wiki/Charlotte_Mary_Brame
+"Washington, Booker T.",2376,https://en.wikipedia.org/wiki/Booker_T._Washington
+"Brentano, Clemens",2380,https://en.wikipedia.org/wiki/Clemens_Brentano
+"Mowry, Sylvester",2382,https://en.wikipedia.org/wiki/Sylvester_Mowry
+"Glasgow, Ellen Anderson Gholson",2384,https://en.wikipedia.org/wiki/Ellen_Glasgow
+"Hamilton, Gail",2385,https://en.wikipedia.org/wiki/Mary_Abigail_Dodge
+"Thayer, William Roscoe",2386,https://en.wikipedia.org/wiki/William_Roscoe_Thayer
+"Deland, Margaret Wade Campbell",2387,https://en.wikipedia.org/wiki/Margaret_Deland
+"Henderson, Archibald",2390,https://en.wikipedia.org/wiki/Archibald_Henderson_(professor)
+"Terhune, Albert Payson",2391,https://en.wikipedia.org/wiki/Albert_Payson_Terhune
+"James, George Wharton",2394,https://en.wikipedia.org/wiki/George_Wharton_James
+"Colum, Padraic",2395,https://en.wikipedia.org/wiki/Padraic_Colum
+"MacCaffrey, James",2396,https://en.wikipedia.org/wiki/James_MacCaffrey
+"Keller, Helen",2397,https://en.wikipedia.org/wiki/Helen_Keller
+"Pater, Walter",2398,https://en.wikipedia.org/wiki/Walter_Pater
+"Burton, Richard Francis, Sir",2400,https://en.wikipedia.org/wiki/Richard_Francis_Burton
+"Marbot, Jean-Baptiste-Antoine-Marcelin, baron de",2401,https://en.wikipedia.org/wiki/Marcellin_Marbot
+"Williams, Valentine",2417,https://en.wikipedia.org/wiki/Valentine_Williams
+"Gay, John",2421,https://en.wikipedia.org/wiki/John_Gay
+"Piozzi, Hester Lynch",2423,https://en.wikipedia.org/wiki/Hester_Thrale
+"Pope, Alexander",2428,https://en.wikipedia.org/wiki/Alexander_Pope
+"Bates, Henry Walter",2440,https://en.wikipedia.org/wiki/Henry_Walter_Bates
+"Ross, Edmund G. (Edmund Gibson)",2442,https://en.wikipedia.org/wiki/Edmund_G._Ross
+"Linn, William Alexander",2443,https://en.wikipedia.org/wiki/William_Alexander_Linn
+Voltaire,2445,https://fr.wikipedia.org/wiki/Voltaire
+"Flipper, Henry Ossian",2448,https://en.wikipedia.org/wiki/Henry_Ossian_Flipper
+"Latimer, Hugh",2458,https://en.wikipedia.org/wiki/Hugh_Latimer
+"Pérez Galdós, Benito",2462,https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+"Hichens, Robert",2463,https://en.wikipedia.org/wiki/Robert_Hichens_(writer)
+"Mérimée, Prosper",2465,https://en.wikipedia.org/wiki/Prosper_Mérimée
+"Turgenev, Ivan Sergeevich",2466,https://en.wikipedia.org/wiki/Ivan_Turgenev
+"Cerfberr, Anatole",2468,https://en.wikipedia.org/wiki/Anatole_Cerfberr
+"Cherbuliez, Victor",2470,https://en.wikipedia.org/wiki/Victor_Cherbuliez
+"Grayson, David",2479,https://en.wikipedia.org/wiki/Ray_Stannard_Baker
+"Nadin, Mihai",2481,https://en.wikipedia.org/wiki/Mihai_Nadin
+"Keats, John",2490,https://en.wikipedia.org/wiki/John_Keats
+"Baring, Maurice",2492,https://en.wikipedia.org/wiki/Maurice_Baring
+"Mitford, Mary Russell",2496,https://en.wikipedia.org/wiki/Mary_Russell_Mitford
+"Drummond, Henry",2498,https://en.wikipedia.org/wiki/Henry_Drummond
+"Hesse, Hermann",2499,https://de.wikipedia.org/wiki/Hermann_Hesse
+"Tagore, Rabindranath",2502,https://en.wikipedia.org/wiki/Rabindranath_Tagore
+"Bancroft, Hubert Howe",2504,https://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
+"Yonge, Charlotte M. (Charlotte Mary)",2505,https://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+"Chamberlain, Basil Hall",2510,https://en.wikipedia.org/wiki/Basil_Hall_Chamberlain
+"Prentiss, E. (Elizabeth)",2515,https://en.wikipedia.org/wiki/Elizabeth_Prentiss
+"McClure, Alexander K. (Alexander Kelly)",2517,https://en.wikipedia.org/wiki/Alexander_McClure
+Patañjali,2526,https://en.wikipedia.org/wiki/Patanjali
+"Wallace, Alfred Russel",2530,https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+"Gosse, Edmund",2540,https://en.wikipedia.org/wiki/Edmund_Gosse
+"Corneille, Pierre",2543,https://fr.wikipedia.org/wiki/Pierre_Corneille
+"Mulford, Clarence Edward",2546,https://en.wikipedia.org/wiki/Clarence_E._Mulford
+"Oliphant, Mrs. (Margaret)",2553,https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+"Morris, George Pope",2558,https://en.wikipedia.org/wiki/George_Pope_Morris
+Aristophanes,2562,https://en.wikipedia.org/wiki/Aristophanes
+"Bentley, E. C. (Edmund Clerihew)",2568,https://en.wikipedia.org/wiki/Edmund_Clerihew_Bentley
+"Taine, Hippolyte",2577,https://en.wikipedia.org/wiki/Hippolyte_Taine
+"Calderón de la Barca, Pedro",2587,https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+"Grimm, Jacob",2591,https://en.wikipedia.org/wiki/Jacob_Grimm
+"Forster, E. M. (Edward Morgan)",2604,https://en.wikipedia.org/wiki/E._M._Forster
+"Sherman, William T. (William Tecumseh)",2616,https://en.wikipedia.org/wiki/William_Tecumseh_Sherman
+"Bangs, John Kendrick",2618,https://en.wikipedia.org/wiki/John_Kendrick_Bangs
+"Stevenson, Burton Egbert",2619,https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
+"Arbuthnot, John",2643,https://en.wikipedia.org/wiki/John_Arbuthnot
+"Steele, Richard, Sir",2644,https://en.wikipedia.org/wiki/Richard_Steele
+"Trevelyan, George Otto",2647,"https://en.wikipedia.org/wiki/Sir_George_Trevelyan,_2nd_Baronet"
+"Wood, William",2649,https://en.wikipedia.org/wiki/William_Charles_Henry_Wood
+"Proust, Marcel",2650,https://fr.wikipedia.org/wiki/Marcel_Proust
+"Sheridan, Philip Henry",2651,https://en.wikipedia.org/wiki/Philip_Sheridan
+"Pinkerton, John",2660,https://en.wikipedia.org/wiki/John_Pinkerton
+"Lessing, Gotthold Ephraim",2663,https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+"Trenck, Friedrich, Freiherr von der",2668,https://en.wikipedia.org/wiki/Friedrich_von_der_Trenck
+"Warner, Charles Dudley",2671,https://en.wikipedia.org/wiki/Charles_Dudley_Warner
+"Dickinson, Emily",2678,https://en.wikipedia.org/wiki/Emily_Dickinson
+"Marcus Aurelius, Emperor of Rome",2680,https://en.wikipedia.org/wiki/Marcus_Aurelius
+"Wallace, Edgar",2688,https://en.wikipedia.org/wiki/Edgar_Wallace
+"Atkinson, Eleanor",2693,https://en.wikipedia.org/wiki/Eleanor_Stackhouse_Atkinson
+"Wrong, George McKinnon",2704,https://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+"Zschokke, Heinrich",2706,https://en.wikipedia.org/wiki/Heinrich_Zschokke
+"Richmond, Grace S. (Grace Smith)",2725,https://en.wikipedia.org/wiki/Grace_S._Richmond
+"Edwards, Thomas",2734,https://en.wikipedia.org/wiki/Twm_o%27r_Nant
+"Kirby, William",2735,https://en.wikipedia.org/wiki/William_Kirby_%28author%29
+"McElroy, John",2766,https://en.wikipedia.org/wiki/John_McElroy
+"Sidney, Margaret",2770,https://en.wikipedia.org/wiki/Margaret_Sidney
+"Ford, Ford Madox",2775,https://en.wikipedia.org/wiki/Ford_Madox_Ford
+"Burnham, Clara Louise",2778,https://en.wikipedia.org/wiki/Clara_Louise_Burnham
+"May, Karl",2779,https://en.wikipedia.org/wiki/Karl_May
+"Penrose, Margaret",2789,https://en.wikipedia.org/wiki/Margaret_Penrose
+"Botev, Khristo",2790,https://en.wikipedia.org/wiki/Hristo_Botev
+"Addison, Joseph",2791,https://en.wikipedia.org/wiki/Joseph_Addison
+"Pellico, Silvio",2792,https://it.wikipedia.org/wiki/Silvio_Pellico
+"Ollivant, Alfred",2795,https://en.wikipedia.org/wiki/Alfred_Ollivant_(writer)
+"Bacheller, Irving",2799,https://en.wikipedia.org/wiki/Irving_Bacheller
+"Harrington, James",2801,https://en.wikipedia.org/wiki/James_Harrington_%28author%29
+"Jackson, Helen Hunt",2802,https://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+"Cahan, Abraham",2803,https://en.wikipedia.org/wiki/Abraham_Cahan
+"Henty, G. A. (George Alfred)",2805,https://en.wikipedia.org/wiki/G._A._Henty
+"Garland, Hamlin",2809,https://en.wikipedia.org/wiki/Hamlin_Garland
+"Plunkitt, George Washington",2810,https://en.wikipedia.org/wiki/George_W._Plunkitt
+"Pliny, the Younger",2811,https://en.wikipedia.org/wiki/Pliny_the_Younger
+"Joyce, James",2814,https://en.wikipedia.org/wiki/James_Joyce
+"Campanella, Tommaso",2816,https://en.wikipedia.org/wiki/Tommaso_Campanella
+"Saunders, Marshall",2818,https://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+"Robida, Albert",2820,https://fr.wikipedia.org/wiki/Albert_Robida
+"La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",2824,https://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqué
+"Skelton, Oscar D. (Oscar Douglas)",2835,https://en.wikipedia.org/wiki/Oscar_D._Skelton
+"Lopes Neto, J. Simões (João Simões)",2837,https://pt.wikipedia.org/wiki/Jo%C3%A3o_Sim%C3%B5es_Lopes_Neto
+"Heine, Heinrich",2838,https://de.wikipedia.org/wiki/Heinrich_Heine
+"Josephus, Flavius",2846,https://en.wikipedia.org/wiki/Josephus
+"Sienkiewicz, Henryk",2853,https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+"Post, Melville Davisson",2861,https://en.wikipedia.org/wiki/Melville_Davisson_Post
+"Ainsworth, William Harrison",2866,https://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+"Hume, Fergus",2868,https://en.wikipedia.org/wiki/Fergus_Hume
+"Lydgate, John",2878,https://en.wikipedia.org/wiki/John_Lydgate
+"Wells, Carolyn",2883,https://en.wikipedia.org/wiki/Carolyn_Wells
+"Hebbel, Friedrich",2887,https://de.wikipedia.org/wiki/Friedrich_Hebbel
+"Moorman, F. W. (Frederic William)",2888,https://en.wikipedia.org/wiki/F._W._Moorman
+"Ball, Hugo",2889,https://en.wikipedia.org/wiki/Hugo_Ball
+"Vazov, Ivan Minchov",2890,https://bg.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%92%D0%B0%D0%B7%D0%BE%D0%B2
+"Fleming, Walter L. (Walter Lynwood)",2897,https://en.wikipedia.org/wiki/Walter_Lynwood_Fleming
+"Buck, Solon J. (Solon Justus)",2899,https://en.wikipedia.org/wiki/Solon_J._Buck
+"Thompson, Holland",2900,https://en.wikipedia.org/wiki/Holland_Thompson
+"Bojer, Johan",2943,https://en.wikipedia.org/wiki/Johan_Bojer
+"Emerson, Ralph Waldo",2944,https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+"Zäunemann, Sidonia Hedwig",2947,https://de.wikipedia.org/wiki/Sidonia_Hedwig_Z%C3%A4unemann
+"Thanet, Octave",2949,https://en.wikipedia.org/wiki/Alice_French
+"Fleming, May Agnes",2950,https://en.wikipedia.org/wiki/May_Agnes_Fleming
+"Casanova, Giacomo",2951,https://en.wikipedia.org/wiki/Giacomo_Casanova
+"Paine, Albert Bigelow",2982,https://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+"Pretty, Francis",2991,https://en.wikipedia.org/wiki/Francis_Pretty
+"Jones, Henry Festing",2993,https://en.wikipedia.org/wiki/Henry_Festing_Jones
+"Tacitus, Cornelius",2995,https://en.wikipedia.org/wiki/Tacitus
+"Ian, Janis",3001,https://en.wikipedia.org/wiki/Janis_Ian
+"Johnson, Allen",3004,https://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+"Emerson, Willis George",3007,https://en.wikipedia.org/wiki/Willis_George_Emerson
+"Ogg, Frederic Austin",3014,https://en.wikipedia.org/wiki/Frederic_Austin_Ogg
+"Richardson, Dorothy M. (Dorothy Miller)",3019,https://en.wikipedia.org/wiki/Dorothy_Richardson
+"Frost, Robert",3021,https://en.wikipedia.org/wiki/Robert_Frost
+"Hale, Lucretia P. (Lucretia Peabody)",3028,https://en.wikipedia.org/wiki/Lucretia_Peabody_Hale
+"Farrand, Max",3032,https://en.wikipedia.org/wiki/Max_Farrand
+"Hough, Emerson",3033,https://en.wikipedia.org/wiki/Emerson_Hough
+"Macy, Jesse",3034,https://en.wikipedia.org/wiki/Jesse_Macy
+"Moody, John",3036,https://en.wikipedia.org/wiki/John_Moody
+"Hendrick, Burton Jesse",3037,https://en.wikipedia.org/wiki/Burton_J._Hendrick
+"Flecker, James Elroy",3039,https://en.wikipedia.org/wiki/James_Elroy_Flecker
+"Ford, Henry Jones",3041,http://en.wikipedia.org/wiki/Henry_Jones_Ford
+"Shepherd, William R. (William Robert)",3042,https://en.wikipedia.org/wiki/William_Robert_Shepherd
+"Fisher, Sydney George",3043,https://en.wikipedia.org/wiki/Sydney_George_Fisher
+"Harben, Will N. (Will Nathaniel)",3046,https://en.wikipedia.org/wiki/William_Harben
+"Mommsen, Theodor",3060,https://en.wikipedia.org/wiki/Theodor_Mommsen
+"Huntington, Ellsworth",3066,https://en.wikipedia.org/wiki/Ellsworth_Huntington
+"Skinner, Constance Lindsay",3073,https://en.wikipedia.org/wiki/Constance_Lindsay_Skinner
+"De la Mare, Walter",3075,https://en.wikipedia.org/wiki/Walter_de_la_Mare
+"Reed, John",3076,https://en.wikipedia.org/wiki/John_Reed_(journalist)
+"Becker, Carl L. (Carl Lotus)",3093,http://en.wikipedia.org/wiki/Carl_L._Becker
+"Hulbert, Archer Butler",3098,https://en.wikipedia.org/wiki/Archer_Butler_Hulbert
+"Paine, Ralph Delahaye",3099,https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+"Legge, James",3100,https://en.wikipedia.org/wiki/James_Legge
+"Thébaud, Augustus J.",3141,https://en.wikipedia.org/wiki/Augustus_Th%C3%A9baud
+"Butler, Joseph",3150,https://en.wikipedia.org/wiki/Joseph_Butler
+"Raspe, Rudolf Erich",3154,https://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
+"Heyse, Paul",3156,https://en.wikipedia.org/wiki/Paul_Heyse
+"Fish, Carl Russell",3157,https://en.wikipedia.org/wiki/Carl_Russell_Fish
+"Taylor, Tom",3158,https://en.wikipedia.org/wiki/Tom_Taylor
+"Pedler, Margaret",3159,https://en.wikipedia.org/wiki/Margaret_Pedler
+"Burroughs, John",3163,https://en.wikipedia.org/wiki/John_Burroughs
+"Ward, Grady",3202,https://en.wikipedia.org/wiki/Grady_Ward
+"Hobbes, Thomas",3207,https://en.wikipedia.org/wiki/Thomas_Hobbes
+"Dürer, Albrecht",3226,https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer
+"Wilcox, Ella Wheeler",3228,https://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+"Pyle, Katharine",3230,https://en.wikipedia.org/wiki/Katharine_Pyle
+"Connor, Ralph",3241,https://en.wikipedia.org/wiki/Ralph_Connor
+"Maclaren, Ian",3256,https://en.wikipedia.org/wiki/Ian_Maclaren
+"Edwards, Owen Morgan, Sir",3260,https://en.wikipedia.org/wiki/Owen_Morgan_Edwards
+"Stead, Robert J. C.",3264,https://en.wikipedia.org/wiki/Robert_J.C._Stead
+"Wright, Harold Bell",3265,https://en.wikipedia.org/wiki/Harold_Bell_Wright
+"Radcliffe, Ann Ward",3268,https://en.wikipedia.org/wiki/Ann_Radcliffe
+"White, William Hale",3269,https://en.wikipedia.org/wiki/Hale_White
+"Ward, Artemus",3271,https://en.wikipedia.org/wiki/Charles_Farrar_Browne
+"Speke, John Hanning",3284,https://en.wikipedia.org/wiki/John_Hanning_Speke
+"Corwin, Edward Samuel",3291,https://en.wikipedia.org/wiki/Edward_Samuel_Corwin
+"Lazarus, Emma",3295,https://en.wikipedia.org/wiki/Emma_Lazarus
+"Augustine, Saint, Bishop of Hippo",3296,https://en.wikipedia.org/wiki/Augustine_of_Hippo
+"Smith, Adam",3300,https://en.wikipedia.org/wiki/Adam_Smith
+"Earls, Michael",3305,https://en.wikipedia.org/wiki/Michael_Earls
+"Hargrave, John",3306,https://en.wikipedia.org/wiki/John_Hargrave
+"McDougall, William",3307,https://en.wikipedia.org/wiki/William_McDougall_(psychologist)
+"Jenks, Albert Ernest",3308,https://en.wikipedia.org/wiki/Albert_Jenks
+"Nadaillac, Jean-François-Albert du Pouget, marquis de",3309,https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois-Albert_du_Pouget
+"Paes, Domingos, active 16th century",3310,https://en.wikipedia.org/wiki/Domingo_Paes
+"Gillmore, Inez Haynes",3311,https://en.wikipedia.org/wiki/Inez_Haynes_Irwin
+"Stoddard, Charles Warren",3313,https://en.wikipedia.org/wiki/Charles_Warren_Stoddard
+"Irwin, Will",3314,http://en.wikipedia.org/wiki/William_Henry_Irwin
+"Moore, J. Hampton (Joseph Hampton)",3316,https://en.wikipedia.org/wiki/J._Hampton_Moore
+"Gibbs, Philip",3317,https://en.wikipedia.org/wiki/Philip_Gibbs
+"Scott, Leroy",3321,https://en.wikipedia.org/wiki/Leroy_Scott
+"Wood, Henry, Mrs.",3322,https://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+"Liljencrantz, Ottilie A. (Ottilia Adelina)",3323,https://en.wikipedia.org/wiki/Ottilie_A._Liljencrantz
+"Bulfinch, Thomas",3327,https://en.wikipedia.org/wiki/Thomas_Bulfinch
+Confucius,3330,https://en.wikipedia.org/wiki/Confucius
+"Pepys, Samuel",3331,https://en.wikipedia.org/wiki/Samuel_Pepys
+"Camões, Luís de",3333,https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+"Sue, Eugène",3339,https://en.wikipedia.org/wiki/Eug%C3%A8ne_Sue
+"Chesterfield, Philip Dormer Stanhope, Earl of",3351,https://en.wikipedia.org/wiki/Philip_Stanhope%2C_4th_Earl_of_Chesterfield
+"Perry, Bliss",3410,https://en.wikipedia.org/wiki/Bliss_Perry
+"Amundsen, Roald",3414,https://en.wikipedia.org/wiki/Roald_Amundsen
+"Bryce, James Bryce, Viscount",3416,"https://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce"
+"Clarke, Marcus Andrew Hislop",3424,https://en.wikipedia.org/wiki/Marcus_Clarke
+"Holley, Marietta",3425,https://en.wikipedia.org/wiki/Marietta_Holley
+"Gladstone, W. E. (William Ewart)",3426,https://en.wikipedia.org/wiki/William_Ewart_Gladstone
+"Voynich, E. L. (Ethel Lillian)",3431,https://en.wikipedia.org/wiki/Ethel_Voynich
+"Slaveikov, Pencho P.",3433,https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D1%87%D0%BE_%D0%A1%D0%BB%D0%B0%D0%B2%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2
+"Tyrrell, Chas. A. (Charles Alfred)",3453,https://en.wikipedia.org/wiki/Charles_Alfred_Tyrrell
+"Cohen, Josef",3455,https://nl.wikipedia.org/wiki/Josef_Cohen
+"Eddy, Mary Baker",3458,https://en.wikipedia.org/wiki/Mary_Baker_Eddy
+"Furphy, Joseph",3470,https://en.wikipedia.org/wiki/Joseph_Furphy
+"Wilson, Harry Leon",3472,https://en.wikipedia.org/wiki/Harry_Leon_Wilson
+"Walpole, Hugh",3474,https://en.wikipedia.org/wiki/Hugh_Walpole
+"Inchfawn, Fay",3477,https://en.wikipedia.org/wiki/Elizabeth_Rebecca_Ward
+"Johnson, E. Pauline",3478,https://en.wikipedia.org/wiki/E._Pauline_Johnson
+"Knowles, James Sheridan",3480,https://en.wikipedia.org/wiki/James_Sheridan_Knowles
+"Jenkins, Herbert George",3481,https://en.wikipedia.org/wiki/Herbert_George_Jenkins
+"Hakluyt, Richard",3482,https://en.wikipedia.org/wiki/Richard_Hakluyt
+"Legros, Georges Victor",3489,https://fr.wikipedia.org/wiki/Victor_Legros
+"Perkins, Lucy Fitch",3496,https://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+"Hughes, John Ceiriog",3500,https://en.wikipedia.org/wiki/John_Ceiriog_Hughes
+"Housman, Laurence",3527,https://en.wikipedia.org/wiki/Laurence_Housman
+"Leacock, Stephen",3532,https://en.wikipedia.org/wiki/Stephen_Leacock
+"Tench, Watkin",3534,https://en.wikipedia.org/wiki/Watkin_Tench
+"Bok, Edward William",3538,https://en.wikipedia.org/wiki/Edward_Bok
+"Carboni, Raffaello",3546,https://en.wikipedia.org/wiki/Raffaello_Carboni
+"Cowley, Abraham",3549,https://en.wikipedia.org/wiki/Abraham_Cowley
+"Bourrienne, Louis Antoine Fauvelet de",3551,https://fr.wikipedia.org/wiki/Louis_Antoine_Fauvelet_de_Bourrienne
+"Wairy, Louis Constant",3568,https://fr.wikipedia.org/wiki/Louis_Constant_Wairy
+"Montaigne, Michel de",3581,https://fr.wikipedia.org/wiki/Michel_de_Montaigne
+"Field, Salisbury",3602,https://en.wikipedia.org/wiki/Edward_Salisbury_Field
+"Stevens, Doris",3604,https://en.wikipedia.org/wiki/Doris_Stevens
+"Ray, Anna Chapin",3605,https://en.wikipedia.org/wiki/Anna_Chapin_Ray
+"Tressell, Robert",3608,https://en.wikipedia.org/wiki/Robert_Tressell
+"Cross, Victoria",3609,https://en.wikipedia.org/wiki/Annie_Sophie_Cory
+"Holmes, Mary Jane",3619,https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+"Manners, J. Hartley",3621,https://en.wikipedia.org/wiki/J._Hartley_Manners
+"Frazer, James George",3623,https://en.wikipedia.org/wiki/James_George_Frazer
+"Ward, Adolphus William, Sir",3624,https://en.wikipedia.org/wiki/Adolphus_Ward
+"Hamilton, James",3627,https://en.wikipedia.org/wiki/James_Hamilton_(1814%E2%80%931867)
+"Norris, Kathleen Thompson",3635,https://en.wikipedia.org/wiki/Kathleen_Norris
+"Hamilton, Cosmo",3641,https://en.wikipedia.org/wiki/Cosmo_Hamilton
+"Mackenzie, Alexander",3652,https://en.wikipedia.org/wiki/Alexander_Mackenzie_(historian)
+"Barclay, Florence L. (Florence Louisa)",3659,https://en.wikipedia.org/wiki/Florence_L._Barclay
+"Bamford, Mary E. (Mary Ellen)",3660,https://en.wikipedia.org/wiki/Mary_Ellen_Bamford
+"Harris, Frank",3662,https://en.wikipedia.org/wiki/Frank_Harris
+"Bindloss, Harold",3663,https://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+"Lewis, Alfred Henry",3667,https://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+"Ives, Charles",3673,https://en.wikipedia.org/wiki/Charles_Ives
+"Meyer, Conrad Ferdinand",3675,https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+"Angellotti, Marion Polk",3676,https://en.wikipedia.org/wiki/Marion_Polk_Angellotti
+"Rudd, Steele",3677,https://en.wikipedia.org/wiki/Steele_Rudd
+"Stone, Louis",3678,https://en.wikipedia.org/wiki/Louis_Stone
+"Johnson, J. C. F. (Joseph Colin Francis)",3679,https://en.wikipedia.org/wiki/Frank_Johnson_(politician)
+"Cist, Henry Martyn",3686,https://en.wikipedia.org/wiki/Henry_M._Cist
+"Liszt, Franz",3689,https://en.wikipedia.org/wiki/Franz_Liszt
+"Rossetti, Dante Gabriel",3692,https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+"Jonson, Ben",3694,https://en.wikipedia.org/wiki/Ben_Jonson
+"Cowper, William",3698,https://en.wikipedia.org/wiki/William_Cowper
+"Dufferin and Ava, Frederick Temple Blackwood, Marquis of",3701,"https://en.wikipedia.org/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava"
+"Boucicault, Dion",3702,https://en.wikipedia.org/wiki/Dion_Boucicault
+"Pedley, Ethel C.",3703,https://en.wikipedia.org/wiki/Ethel_Pedley
+"Wason, Robert Alexander",3705,https://en.wikipedia.org/wiki/Robert_Alexander_Wason
+"Haaren, John H. (John Henry)",3725,https://en.wikipedia.org/wiki/John_Henry_Haaren
+"Boccaccio, Giovanni",3726,https://it.wikipedia.org/wiki/Giovanni_Boccaccio
+"Richardson, Henry Handel",3727,https://en.wikipedia.org/wiki/Henry_Handel_Richardson
+"Daviess, Maria Thompson",3745,https://en.wikipedia.org/wiki/Maria_Thompson_Daviess
+"Parker, Gilbert",3746,"https://en.wikipedia.org/wiki/Sir_Gilbert_Parker,_1st_Baronet"
+"Rousseau, Jean-Jacques",3749,https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+"Howes, Ethel Puffer",3751,https://en.wikipedia.org/wiki/Ethel_Dench_Puffer_Howes
+"Sutphen, Van Tassel",3758,https://en.wikipedia.org/wiki/Van_Tassel_Sutphen
+"Tegnér, Esaias",3759,https://sv.wikipedia.org/wiki/Esaias_Tegn%C3%A9r
+"Disraeli, Benjamin, Earl of Beaconsfield",3760,https://en.wikipedia.org/wiki/Benjamin_Disraeli
+"Marshall, H. E. (Henrietta Elizabeth)",3761,https://en.wikipedia.org/wiki/Henrietta_Elizabeth_Marshall
+"Smith, Horace",3769,https://en.wikipedia.org/wiki/Horace_Smith_(poet)
+"Krehbiel, Henry Edward",3770,https://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+"Lyell, Charles, Sir",3772,https://en.wikipedia.org/wiki/Charles_Lyell
+"Abbott, John S. C. (John Stevens Cabot)",3775,https://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+"Marshall, Logan",3779,https://en.wikipedia.org/wiki/Logan_Marshall
+"James, G. P. R. (George Payne Rainsford)",3780,https://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+"Kingsley, Henry",3786,https://en.wikipedia.org/wiki/Henry_Kingsley
+"Inchbald, Mrs.",3787,https://en.wikipedia.org/wiki/Elizabeth_Inchbald
+"Hadden, J. Cuthbert (James Cuthbert)",3788,https://en.wikipedia.org/wiki/James_Cuthbert_Hadden
+"Southworth, Emma Dorothy Eliza Nevitte",3792,https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+"Seneca, Lucius Annaeus",3794,https://en.wikipedia.org/wiki/Seneca_the_Younger
+"Gronow, R. H. (Rees Howell)",3798,https://en.wikipedia.org/wiki/Rees_Howell_Gronow
+"Merriman, Henry Seton",3805,https://en.wikipedia.org/wiki/Hugh_Stowell_Scott
+"Patterson, J. H. (John Henry)",3810,https://en.wikipedia.org/wiki/John_Henry_Patterson_(author)
+"Simpson, E. Blantyre (Evelyn Blantyre)",3814,https://en.wikipedia.org/wiki/Eve_Blantyre_Simpson
+"Crawford, F. Marion (Francis Marion)",3816,https://en.wikipedia.org/wiki/Francis_Marion_Crawford
+"Becke, Louis",3818,https://en.wikipedia.org/wiki/George_Lewis_Becke
+"Parker, K. Langloh (Katie Langloh)",3819,https://en.wikipedia.org/wiki/K._Langloh_Parker
+"Corelli, Marie",3823,https://en.wikipedia.org/wiki/Marie_Corelli
+"Turner, Frederick Jackson",3826,https://en.wikipedia.org/wiki/Frederick_Jackson_Turner
+"Hamilton, Frederic, Lord",3827,https://en.wikipedia.org/wiki/Lord_Frederick_Spencer_Hamilton
+"Locke, William John",3828,https://en.wikipedia.org/wiki/William_John_Locke
+"Wagner, Richard",3835,https://de.wikipedia.org/wiki/Richard_Wagner
+"Wyss, Johann David",3836,https://fr.wikipedia.org/wiki/Johann_David_Wyss
+"Marguerite, Queen, consort of Henry IV, King of France",3838,https://en.wikipedia.org/wiki/Margaret_of_Valois
+"Retz, Jean François Paul de Gondi de",3842,https://en.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Paul_de_Gondi
+"Montespan, Madame de",3847,"https://en.wikipedia.org/wiki/Fran%C3%A7oise-Ath%C3%A9na%C3%AFs_de_Rochechouart,_Marquise_de_Montespan"
+"Orléans, Charlotte-Elisabeth, duchesse d'",3855,"https://en.wikipedia.org/wiki/Elizabeth_Charlotte,_Madame_Palatine"
+"Saint-Simon, Louis de Rouvroy, duc de",3860,https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon
+"Du Hausset, Mme.",3876,https://fr.wikipedia.org/wiki/Nicole_du_Hausset
+"Campan, Mme. (Jeanne-Louise-Henriette)",3884,https://en.wikipedia.org/wiki/Henriette_Campan
+"Ohnet, Georges",3914,https://en.wikipedia.org/wiki/Georges_Ohnet
+"Droz, Gustave",3923,https://en.wikipedia.org/wiki/Antoine_Gustave_Droz
+"Claretie, Jules",3927,https://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+"Theuriet, André",3935,https://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+"Musset, Alfred de",3939,https://en.wikipedia.org/wiki/Alfred_de_Musset
+"Feuillet, Octave",3943,https://en.wikipedia.org/wiki/Octave_Feuillet
+"Vigny, Alfred de",3947,https://en.wikipedia.org/wiki/Alfred_de_Vigny
+"Halévy, Ludovic",3954,https://en.wikipedia.org/wiki/Ludovic_Hal%C3%A9vy
+"Coppée, François",3958,https://en.wikipedia.org/wiki/François_Coppée
+"Bourget, Paul",3963,https://fr.wikipedia.org/wiki/Paul_Bourget
+"Bentzon, Th.",3968,https://fr.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Bentzon
+"Bazin, René",3972,https://en.wikipedia.org/wiki/Ren%C3%A9_Bazin
+"Bernard, Charles de",3981,https://en.wikipedia.org/wiki/Pierre-Marie-Charles_de_Bernard_du_Grail_de_la_Villette
+"Malot, Hector",3986,https://fr.wikipedia.org/wiki/Hector_Malot
+"Souvestre, Émile",3996,https://fr.wikipedia.org/wiki/%C3%89mile_Souvestre
+"Carey, Rosa Nouchette",4005,https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
+"Landor, Walter Savage",4007,https://en.wikipedia.org/wiki/Walter_Savage_Landor
+"Patmore, Coventry",4009,https://en.wikipedia.org/wiki/Coventry_Patmore
+"O'Neill, Eugene",4015,https://en.wikipedia.org/wiki/Eugene_O'Neill
+"Ozaki, Yei Theodora",4018,https://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
+"Wallace, Dillon",4019,https://en.wikipedia.org/wiki/Dillon_Wallace
+"Follen, Eliza Lee Cabot",4027,https://en.wikipedia.org/wiki/Eliza_Lee_Cabot_Follen
+"Cellini, Benvenuto",4028,https://en.wikipedia.org/wiki/Benvenuto_Cellini
+"Donnelly, Ignatius",4032,https://en.wikipedia.org/wiki/Ignatius_L._Donnelly
+"Moore, George",4034,https://en.wikipedia.org/wiki/George_Moore_(novelist)
+"Mozart, Wolfgang Amadeus",4042,https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+"Blackwood, Algernon",4046,https://en.wikipedia.org/wiki/Algernon_Blackwood
+"Bruce, Mary Grant",4050,https://en.wikipedia.org/wiki/Mary_Grant_Bruce
+"Praed, Campbell, Mrs.",4051,https://en.wikipedia.org/wiki/Rosa_Campbell_Praed
+"Johnson, Richard",4052,https://en.wikipedia.org/wiki/Richard_Johnson_(chaplain)
+"Clacy, Charles, Mrs.",4054,https://en.wikipedia.org/wiki/Ellen_Clacy
+"Aikman, William",4055,https://en.wikipedia.org/wiki/William_Aikman_%28writer%29
+"Creasy, Edward Shepherd, Sir",4061,https://en.wikipedia.org/wiki/Edward_Shepherd_Creasy
+"Smith, Sydney",4063,https://en.wikipedia.org/wiki/Sydney_Smith
+"Newcomb, Simon",4065,https://en.wikipedia.org/wiki/Simon_Newcomb
+"Thomas, J. J. (John Jacob)",4068,https://en.wikipedia.org/wiki/John_Jacob_Thomas
+"Beach, Rex",4082,https://en.wikipedia.org/wiki/Rex_Beach
+"Cheyney, Edward Potts",4089,https://en.wikipedia.org/wiki/Edward_Potts_Cheyney
+"Weston, Jessie L. (Jessie Laidlay)",4090,https://en.wikipedia.org/wiki/Jessie_Weston
+"Calverley, Charles Stuart",4096,https://en.wikipedia.org/wiki/Charles_Stuart_Calverley
+"Thompson, Maurice",4097,https://en.wikipedia.org/wiki/Maurice_Thompson
+"Sangharakshita, Bhikshu",4100,https://en.wikipedia.org/wiki/Sangharakshita
+"Young, Filson",4108,https://en.wikipedia.org/wiki/Filson_Young
+"Lane, Franklin K.",4206,https://en.wikipedia.org/wiki/Franklin_Knight_Lane
+"Evans, Augusta J. (Augusta Jane)",4209,https://en.wikipedia.org/wiki/Augusta_Jane_Evans
+"Arnold, Matthew",4212,https://en.wikipedia.org/wiki/Matthew_Arnold
+"Cambridge, Ada",4218,https://en.wikipedia.org/wiki/Ada_Cambridge
+"Spence, Catherine Helen",4220,https://en.wikipedia.org/wiki/Catherine_Helen_Spence
+"Scott, Ernest, Sir",4222,https://en.wikipedia.org/wiki/Ernest_Scott
+"Nordau, Max Simon",4231,https://en.wikipedia.org/wiki/Max_Nordau
+"Malthus, T. R. (Thomas Robert)",4239,https://en.wikipedia.org/wiki/Thomas_Malthus
+"Fox, Charles James",4245,https://en.wikipedia.org/wiki/Charles_James_Fox
+"Harriot, Thomas",4247,https://en.wikipedia.org/wiki/Thomas_Harriot
+"Thomas, Cyrus",4248,https://en.wikipedia.org/wiki/Cyrus_Thomas
+"Saltus, Edgar",4250,https://en.wikipedia.org/wiki/Edgar_Saltus
