@@ -28,6 +28,7 @@ def join_data(
 
   df = pd.merge(books_df, authors_wiki_df, on='Text#', how='outer')
   df = pd.merge(df, authors_data_df, on='Text#', how='outer')
+  print(df.head(50))
   df.to_csv(out_file, encoding='utf-8', index=False)
 
 
