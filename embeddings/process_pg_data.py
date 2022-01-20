@@ -5,12 +5,9 @@ from sklearn import preprocessing
 from datetime import datetime
 import ast
 
-
 from embeddings import word2vec_str_embedding
 from data.literary_periods import literary_periods
-
-DIR = '../data'
-NAN = np.nan
+from config import NAN, DIR
 
 
 def one_hot_encode_pd_column(df, col_name):
