@@ -58,7 +58,7 @@ def create_str_of_influences(inf_list):
     if isinstance(inf_list, float) and np.isnan(inf_list):
         return np.nan
     else:
-        return ' '.join([k[1] for k in ast.literal_eval(inf_list)])
+        return word2vec_str_embedding(' '.join([k[1] for k in ast.literal_eval(inf_list)]))
 
 
 # TODO think about missing values - they can mislead the gower distance metric
