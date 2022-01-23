@@ -2,6 +2,9 @@
     "cSpell.words": [
         "appscaling",
         "dockerignore",
-        "pgdbbyauthor"
-    ]
+        "pgdbbyauthor",
+        "SPARQL",
+        "SPQRQL"
+    ],
+    "cSpell.language": "en,pl"
 }

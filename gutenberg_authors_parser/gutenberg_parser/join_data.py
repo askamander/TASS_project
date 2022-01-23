@@ -17,6 +17,15 @@ def join_data(
     books_file: str = path.join(DIR, '..', 'data', 'parsed_pg_catalog.csv'),
     out_file: str = path.join(DIR, '..', 'data', 'pg_authors.csv'),
 ):
+  """
+  Połącz dane o autorach i książkach.
+
+  Args:
+    authors_wiki_file(str): Ścieżka do pliku z linkami do Wikipedii.
+    authors_data_file(str): Ścieżka do pliku z danymi o autorach.
+    books_file(str): Ścieżka do pliku z danymi książek.
+    out_file(str): Ścieżka do pliku wynikowego (plik wyjściowy).
+  """
   authors_wiki_df = pd.read_csv(authors_wiki_file)
   authors_wiki_df.rename(columns={'Author': 'CreatorName', 'BookID': 'Text#'}, inplace=True)
 

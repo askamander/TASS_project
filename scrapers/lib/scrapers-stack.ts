@@ -125,8 +125,7 @@ export class ScrapersStack extends cdk.Stack {
         environment: {
           LOG_LEVEL: '10',
           SCRAPER_LAMBDA: wikidataScraperLambda.functionName,
-          DATASET_PATH: 'unique_authors_wiki_1.csv',
-        },
+        }, 
       }
     );
 
