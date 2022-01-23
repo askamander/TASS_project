@@ -1,0 +1,5 @@
+flask~=2.0.2
+gower~=0.0.5
+pandas~=1.3.5
+# Install embedding requirements
+-r embeddings/requirements.txt
