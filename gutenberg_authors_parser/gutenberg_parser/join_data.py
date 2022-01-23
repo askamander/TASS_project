@@ -30,13 +30,13 @@ def join_data(
   authors_wiki_df.rename(columns={'Author': 'CreatorName', 'BookID': 'Text#'}, inplace=True)
 
   authors_data_df = pd.read_csv(authors_data_file)
-  authors_data_df.drop(['Author', 'WikipediaLink'], axis=1, inplace=True)
-  authors_data_df.rename(columns={'BookId': 'Text#'}, inplace=True)
+  authors_data_df.rename(columns={'Author': 'CreatorName'}, inplace=True)
+  authors_data_df.drop(['BookId', 'WikipediaLink'], axis=1, inplace=True)
 
   books_df = pd.read_csv(books_file)
 
   df = pd.merge(books_df, authors_wiki_df, on='Text#', how='outer')
-  df = pd.merge(df, authors_data_df, on='Text#', how='outer')
+  df = pd.merge(df, authors_data_df, on='CreatorName', how='outer')
   print(df.head(50))
   df.to_csv(out_file, encoding='utf-8', index=False)
 
