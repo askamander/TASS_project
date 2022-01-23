@@ -24,3 +24,10 @@ Wszystkie zależności wymagane do uruchomienia projektu znajdują się w pliku 
 ```
 pip install -r requirements.txt
 ```
+
+## Wykorzystanie
+
+W celu uruchomienia systemu rekomendacyjnego należy z poziomu katalogu głównego wywołać komendę:
+```commandline
+python main.py
+```
