@@ -6,7 +6,7 @@ from datetime import datetime
 import ast
 
 from embeddings import word2vec_str_embedding
-from data.literary_periods import literary_periods
+from literary_periods import literary_periods
 from config import NAN, DIR
 
 
@@ -61,7 +61,6 @@ def create_str_of_influences(inf_list):
         return ' '.join([k[1] for k in ast.literal_eval(inf_list)])
 
 
-# TODO think about missing values - they can mislead the gower distance metric
 def load_and_preprocess_pg_catalog(path=f'{DIR}/pg_authors.csv', out=f'{DIR}/pg_authors_clean.csv'):
     df = pd.read_csv(path)
     df = df.fillna(NAN)
@@ -69,7 +68,6 @@ def load_and_preprocess_pg_catalog(path=f'{DIR}/pg_authors.csv', out=f'{DIR}/pg_
              "DateOfBirth", "DateOfDeath", "CountryOfCitizenship", "Occupation",
              "LanguagesSpokenWrittenOrSigned", "Genre", "FieldOfWork", "MemberOf",
              "EducatedAt", "InfluencedBy"]]
-    # print(df)
 
     df["LiteraryPeriod"] = df.apply(lambda x: assign_to_literary_period(x['DateOfBirth'], x['DateOfDeath']), axis=1)
     df.drop(['DateOfBirth', 'DateOfDeath'], axis=1, inplace=True)
@@ -95,7 +93,6 @@ def load_preprocessed_pg_catalog(path=f'{DIR}/pg_catalog.csv'):
     df = pd.read_csv(path)
     df = df.fillna(NAN)
     return df
-
 
 
 
