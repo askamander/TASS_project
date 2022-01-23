@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 W celu uruchomienia systemu rekomendacyjnego należy z poziomu katalogu głównego wywołać komendę:
 ```commandline
-python main.py
+python3 main.py
 ```
