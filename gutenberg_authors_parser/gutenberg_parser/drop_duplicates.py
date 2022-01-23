@@ -16,6 +16,13 @@ def drop_duplicates(
     authors_file: str = path.join(DIR, '..', 'data', 'authors_wiki.csv'),
     unique_authors_file: str = path.join(DIR, '..', 'data', 'unique_authors_wiki.csv'),
 ):
+  """
+  Usuń zduplikowanych autorów.
+
+  Args:
+    authors_file(str): Ścieżka do pliku wejściowego.
+    unique_authors_file(str): Ścieżka do pliku wyjściowego, z unikalnymi autorami.
+  """
   df = pd.read_csv(authors_file)
   df.dropna(inplace=True, how='any', subset=['WikipediaLink'])
   df = df.drop_duplicates(subset=['Author'])

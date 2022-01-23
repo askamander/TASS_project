@@ -15,13 +15,13 @@ logger.setLevel(LOG_LEVEL)
 
 def extract_wikipedia_link(file_path: str) -> Tuple[Optional[str], Optional[str]]:
   """
-  Extract wikipedia link from RDF file.
+  Wyekstrahuj linki autorów książek do Wikipedii.
 
   Args:
-    file_path (str): Path to RDF file.
+    file_path (str): ścieżka do pliku z metadanmymi książki w formacie RDF.
 
   Returns:
-    (Tuple[Optional[str], Optional[str]]): Tuple of author's name and wikipedia link.
+    (Tuple[Optional[str], Optional[str]]): Krotka zawierająca imię i nazwisko twórcy oraz link do jego Wikipedii.
   """
   g = Graph()
   try:

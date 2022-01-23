@@ -12,7 +12,7 @@ DIR = path.dirname(path.realpath(__file__))
 LOG_LEVEL = int(environ['LOG_LEVEL'])
 
 logging.basicConfig()
-logger = logging.getLogger('extract_wikipedia_link')
+logger = logging.getLogger('parse_book_data')
 logger.setLevel(LOG_LEVEL)
 
 
@@ -21,6 +21,15 @@ def parse_book_data(
     parsed_pg_catalog_file: str = path.join(DIR, '..', 'data', 'parsed_pg_catalog.csv'),
     authors_file: str = path.join(DIR, '..', 'data', 'authors_wiki.csv'),
 ):
+  """
+  Konwertuj dane o książkach poprzez wydzielenie autorów i wyszukanie linków do ich Wikipedii z metadanych.
+
+  Args:
+    file_path(str): Ścieżka do pliku z danymi o książkach (plik wejściowy)
+    parsed_pg_catalog_file(str): Ścieżka do pliku z wyczyszczonynim danymi o książkach tj. usunięta pola NaN oraz
+      usunięci autorzy `Unknown` lub `Various` (plik wyjściowy)
+    authors_file(str): Ścieżka do pliku z linkami do Wikipedii (plik wyjściowy)
+  """
   df = pd.read_csv(file_path)
   # Remove NaN-s from authors
   df.dropna(inplace=True, how='any', subset=['Authors'])
